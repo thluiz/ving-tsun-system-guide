@@ -1,3 +1,5 @@
-[data-page-type="splash"] .hero h1 {
-	font-size: clamp(2rem, 6vw, 3.5rem);
+.hero h1 small {
+	font-size: 0.6em;
+	font-weight: 400;
+	opacity: 0.85;
 }
