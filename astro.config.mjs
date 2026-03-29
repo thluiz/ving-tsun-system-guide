@@ -7,6 +7,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Ving Tsun: A System Guide',
+			customCss: ['./src/styles/custom.css'],
 			defaultLocale: 'pt-br',
 			locales: {
 				'pt-br': {
