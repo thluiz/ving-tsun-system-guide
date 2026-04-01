@@ -23,7 +23,21 @@ description: "O Sistema VT em profundidade — os 6 domínios, a sugestão tril�
 >
 > ~ Grão-Mestre Moy Yat
 
+Se Kung Fu não tem tradução exata para o português ou para o inglês, sistema também é um termo vago. Quase qualquer coisa que tenha várias partes pode ser chamada de sistema.
+
+O primeiro a intuir essa questão foi Leibniz. Na sua Monadologia, propunha que as coisas em si têm pouco valor, o que vale é a relação entre elas. Cada mônada reflete o universo inteiro a partir do seu ponto de vista, e é nessa rede de reflexos que a realidade se constitui.
+
+Porém, graças provavelmente a Descartes, o ocidente passou séculos dividindo tudo em partes cada vez menores na tentativa de reduzir as coisas ao conjunto de suas partes. Funciona para sistemas simples como os da física clássica, porém já falha para sistemas biológicos do dia a dia.
+
+Esse trabalho de pensar em sistemas como um todo só seria recuperado no século XIX e aproveitado por Bertalanffy já em meados do século XX. Ou seja, pensar os sistemas ainda se encontra nos primeiros estágios no ocidente.
+
+A China, devido às suas convulsões internas, teve sempre um mundo mais instável. Guerras e guerras fizeram com que o pensamento focasse mais nas relações entre os entes do que nos entes em si.
+
+{/* TODO: expandir a distinção pensamento chinês (relacional) vs ocidental (elementar) — ver cap 4 para não duplicar */}
+
 ## O que é o Ving Tsun Kuen? {/* TODO: ideogramas */}
+
+O Ving Tsun em chinês será tratado como Ving Tsun Kuen Sut/To ({/* TODO: ideogramas + explicar Sut/To */}).
 
 O uso do chinês aqui é proposital (como sempre). O termo Kuen no jargão marcial faz referência ao que chamaríamos de estilo no ocidente. Ving Tsun é o nome de sua fundadora que o organizou e legou às gerações seguintes. Herança à qual humildemente me inscrevo a partir das portas que meu Si Fu abriu.
 
