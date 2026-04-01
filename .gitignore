@@ -19,3 +19,9 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
+
+# claude code settings
+.claude/
+
+# material de apoio / fontes de pesquisa
+fontes/
