@@ -69,6 +69,15 @@ Não é coincidência que o sistema Ving Tsun leve o nome de uma mulher. Yim Vin
 
 {/* Pontos pendentes deste capítulo — ver TODO.md na raiz do projeto */}
 
+{/* TODO (seção "arte de viver bem"): Kung Fu como capacidade de transpor conhecimentos
+   - Em um olhar raso, Kung Fu pode ser interpretado como a capacidade de executar ações,
+     porém confunde-se o resultado com o processo para chegar nele.
+   - Executar bem algo pode ser fruto da sorte, talento, esmero. Aplicar essa capacidade
+     a outros meios depende de um saber adicional não óbvio: é preciso ter a capacidade
+     de transpor conhecimentos de uma área para outra. A essa aplicação de ferramentas
+     de uma área em outra podemos chamar de Kung Fu.
+*/}
+
 {/*
 ### Pontos da reunião sobre Programa de Mestrado a serem (re)considerados:
 
