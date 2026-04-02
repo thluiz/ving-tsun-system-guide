@@ -7,7 +7,7 @@ description: "O que é Kung Fu — a porta de entrada do livro. Etimologia, abor
 >
 > ~ Grão-Mestre Moy Yat
 
-Se você perguntar a qualquer pessoa na rua o que é Kung Fu, a resposta vai envolver socos, chutes, talvez um Bruce Lee. O curioso é que o termo chinês para artes marciais é outro: Mou Seut (武術), a junção de 武 (marcial) com 術 (arte, método). Kung Fu (功夫) não tem nada a ver com combate. Sua associação às artes marciais somente é salientada pela academia Chi Wu ({/* TODO: procurar ideogramas de Chi Wu */}) já no final do século XIX e para o XX. Mas o cinema de Hong Kong nos anos 70 colou os dois de tal forma que até entre chineses hoje o termo é usado quase exclusivamente para tratar de luta.
+O conhecimento comum associa Kung Fu a socos, chutes, Bruce Lee ou alguma série da década de 1970. O curioso é que o termo chinês para artes marciais é outro: Mou Seut (武術), a junção de 武 (marcial) com 術 (arte, método). Kung Fu (功夫) não tem nada a ver com combate. Sua associação às artes marciais somente é salientada pela academia Chin Wu (精武) já no final do século XIX e para o XX. Mas o cinema de Hong Kong nos anos 70 colou os dois de tal forma que até entre chineses hoje o termo é usado quase exclusivamente para tratar de luta.
 
 ## O que quer dizer Kung Fu (功夫)?
 
@@ -21,7 +21,7 @@ O segundo, 夫 (fu), é formado por 大 (daai), uma grande pessoa, com uma presi
 
 Kung Fu, lido pelos seus ideogramas, seria algo como o processo de amadurecimento por meio do trabalho inteligente.
 
-É notável o que *não* está ali. Não há socos, chutes, armas ou combate. Não há sequer movimento. O que os ideogramas descrevem é um processo, alguém que se dedica a algo por tempo suficiente para se transformar. O padeiro que acorda às três da manhã há trinta anos tem Kung Fu. O programador que refatora o mesmo sistema até ele ficar simples tem Kung Fu. A avó que sabe o ponto exato do arroz sem medir nada tem Kung Fu.
+É notável o que *não* está ali. Não há socos, chutes, armas ou combate. Não há sequer movimento. O que os ideogramas descrevem é um processo, alguém que se dedica a algo por tempo suficiente para se transformar. O padeiro que acorda às três da manhã há trinta anos pode ter Kung Fu. O programador que refatora o mesmo sistema até ele ficar simples pode ter Kung Fu. A avó que sabe o ponto exato do arroz sem medir nada pode ter Kung Fu.
 
 Se Kung Fu descreve um processo e não uma disciplina, então ele não pertence às artes marciais, as artes marciais é que *podem* conter Kung Fu. E essa inversão é o primeiro sinal de pensamento sistêmico: confundir o recipiente com o conteúdo é um erro clássico de quem olha para a parte achando que vê o todo.
 

@@ -113,17 +113,56 @@ Fonte: `fontes/Programa de Mestrado - 2026_03_11 [...] Sobre Kung Fu.md`
 
 ## Capítulo 02 — O Sistema Ving Tsun
 
-### Pendente
-- [ ] Definição de sistema → aplicação ao VT
-- [ ] Os 6 domínios (SNT, CK, BJ, MFJ, LDBG, BJD) como listagens panorâmicas
-- [ ] Modelo de interpretação trilógica
+### Escrito
+- Conceito de sistema (Leibniz, Descartes, Bertalanffy)
+- Pensamento chinês como sistêmico por natureza (nome da família antes do indivíduo)
+- O que é o Ving Tsun Kuen (Kuen como estilo, lista de dispositivos, foco nas relações)
+- Por que o Sistema VT (origem marcial, genealogia, Moy Yat VT, ferramenta que molda)
+- Citação Culkin/Churchill/McLuhan
+
+### Pendente — estrutura e domínios
+- [ ] Etimologia de "sistema": grego (aquilo que se mantém junto) e chinês hai tong (reunião de fios)
+- [ ] Sistema como lista/receita onde a ordem altera o produto (vs input-processamento-output)
+- [ ] Os 6 domínios e as duas trilogias (SNT/CK/BJ + MFJ/LDBG/BJD)
+- [ ] Fases estruturada → semi-estruturada → não-estruturada como continuum
+- [ ] Sistema como gradual de complexidade, tensão e dificuldade (artificial)
+- [ ] Integridade: 6 elementos, nem mais nem menos (identidade do sistema)
+- [ ] Sistema aberto (interpretação) vs fechado (núcleo dos 6 domínios)
+- [ ] Elementos não-lineares e retroativos (Biu Ji muda como você vê Siu Nim Tao)
 - [ ] Variação como princípio organizador
-- [ ] Completude: cada domínio em relação aos outros
-- [ ] Genealogia do sistema (contexto histórico)
-- [ ] Denominação (Moy Yat Ving Tsun)
+
+### Pendente — natureza e filosofia do sistema
+- [ ] Sistema é artificial (positivo) — nenhum gesto é natural, tudo foi desenhado
+- [ ] Natureza emerge, não se prescreve — não dizer "a natureza do SND é X"
+- [ ] "O sistema é mudo" — interpretação é do praticante
+- [ ] Sistema como partitura / maestro — partitura fixa, artista na interpretação
+- [ ] Começar dentro do sistema, eventualmente descolar
+- [ ] Interdependência, não independência — entrar no sistema já o afeta
+- [ ] Fita de Moebius — para ficar bom, precisa transmitir
+
+### Pendente — transmissão e genealogia
+- [ ] Ensinar vs transmitir vs aprender — Si Fu transmite sistema, ensina cultura
+- [ ] Transmissor emite puro, não controla recepção (alho/bugalho)
+- [ ] 5 gerações = um período genealógico, arte "antiga" a partir da 6ª
+- [ ] Sistema pode ser anterior a Yim Ving Tsun (complexidade improvável para uma pessoa)
+- [ ] Fundação é "atribuída", não declarada (Leung Bok To nomeou)
+- [ ] 10ª geração como última conexão necessária com a China — universalização
+- [ ] Mito vs rito — narrativas dão permanência a práticas
+- [ ] Sistema vs estilo vs método (Kuen/Kuen-Fa, Kuen-Sung)
+
+### Pendente — marcialidade e vida
+- [ ] Marcialidade como produto primário, desenvolvimento humano como subproduto
+- [ ] Chi Sau como alma do sistema — método indireto
+- [ ] San Fat vs Vida Kung Fu — interpretação de Si Taai Gung
+- [ ] "Momento programado" — paradoxo de agendar o espontâneo (Jullien)
+- [ ] Influências confucionista, taoista e budista no sistema
+- [ ] Pré-requisitos amplos = sistema mais eficaz
+
+### Pendente — denominação
+- [ ] Denominação Moy Yat Ving Tsun
 
 ### Fontes disponíveis
-`Ving Tsun Kuen Sut.pdf`, `HAI TONG por MOY YAT.pdf`, `VTExp2022 - SND - Listagem.pdf`, `SND - Linha Central.pdf`, `BJ - Apresentação1.pdf`. Suficiente para iniciar.
+`Ving Tsun Kuen Sut.pdf`, `HAI TONG por MOY YAT.pdf`, `VTExp2022 - SND - Listagem.pdf`, `SND - Linha Central.pdf`, `BJ - Apresentação1.pdf`, **`Programa de Mestrado - Encontro 2 - sistemas - transcricao.txt`** (fonte primária). Fontes ricas, prontas para escrita.
 
 ---
 
@@ -162,7 +201,7 @@ Fonte: `fontes/Programa de Mestrado - 2026_03_11 [...] Sobre Kung Fu.md`
 ## Capítulo 05 — VT como Educador Sistêmico
 
 ### Pendente
-- [ ] Holismo na prática: san-sau-ma como sistema unitário
+- [ ] Holismo na prática: san-sau-ma (corpo-braços-base), yu-ma-lek (costa-cavalo-energia) como sistema unitário
 - [ ] Emergência: ging 勁 não presente nas partes isoladas
 - [ ] Feedback loops: Chi Sau como sistema de feedback contínuo
 - [ ] Hierarquia e subsistemas: SNT → CK → BJ como camadas
