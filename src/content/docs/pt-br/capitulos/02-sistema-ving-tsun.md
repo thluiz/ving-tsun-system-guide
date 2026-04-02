@@ -31,7 +31,7 @@ Porém, graças provavelmente a Descartes, o ocidente passou séculos dividindo 
 
 Esse trabalho de pensar em sistemas como um todo só seria recuperado no século XIX e aproveitado por Bertalanffy já em meados do século XX. Ou seja, pensar os sistemas ainda se encontra nos primeiros estágios no ocidente.
 
-A China, devido às suas convulsões internas, teve sempre um mundo mais instável. Guerras e guerras fizeram com que o pensamento focasse mais nas relações entre os entes do que nos entes em si.
+No outro lado do mundo, a China, devido às suas convulsões internas, teve sempre um terreno mais instável, porém sem rupturas bruscas de suas tradições de pensamento. Apoiar-se nas variáveis era a forma mais eficiente de transitar em um cenário em constante evolução. O pensamento chinês nasce sistêmico por natureza, não se valoriza as partes em detrimento do todo. É curioso como isso perpassa até as estruturas familiares: o nome da família vem antes do indivíduo.
 
 {/* TODO: expandir a distinção pensamento chinês (relacional) vs ocidental (elementar) — ver cap 4 para não duplicar */}
 
@@ -79,3 +79,38 @@ A mágica sistêmica ocorre quando, ao estudar o sistema para desenvolvimento do
 */}
 
 {/* Pontos pendentes deste capítulo — ver TODO.md na raiz do projeto */}
+
+{/*
+### Pontos do Encontro 2 (Programa de Mestrado) a serem (re)considerados:
+
+1. Etimologia: "sistema" no grego = "aquilo que se mantém junto"; em chinês hai tong = "reunião de fios"
+2. Sistema como input-processamento-output vs sistema chinês como lista/receita (ordem altera o produto)
+3. Os 6 domínios e as duas trilogias (SNT/CK/BJ + MFJ/LDBG/BJD)
+4. Fases estruturada → semi-estruturada → não-estruturada como continuum, não estados discretos
+5. Ensinar vs transmitir vs aprender — Si Fu transmite sistema, ensina cultura, To Dai aprende
+6. Sistema é artificial (positivo) — nenhum gesto do VT é natural, tudo foi desenhado
+7. Natureza não se prescreve, emerge — não dizer "a natureza do SND é X", deixar brotar
+8. "O sistema é mudo" — qualquer interpretação é do praticante, não do sistema
+9. Sistema como partitura / maestro — partitura fixa, artista na interpretação
+10. Começar dentro do sistema, eventualmente descolar — permissão pessoal
+11. Integridade: 6 elementos, nem mais nem menos — adicionar ou remover muda a identidade
+12. Sistema aberto vs fechado — núcleo fechado (6 domínios), interpretação aberta
+13. 5 gerações genealógicas = um período — arte "antiga" só a partir da 6ª geração
+14. Sistema pode ser anterior a Yim Ving Tsun — complexidade improvável para uma pessoa
+15. A fundação é "atribuída", não declarada — Leung Bok To nomeou
+16. 10ª geração como última conexão necessária com a China — universalização
+17. Interdependência, não independência — entrar num sistema já o afeta
+18. Fita de Moebius — sistema que retorna a si, dentro vira fora
+19. Elementos não-lineares e retroativos — Biu Ji muda como você vê o Siu Nim Tao
+20. Transmissor emite puro, não controla recepção — alho/bugalho
+21. Sistema vs estilo vs método — Kuen/Kuen-Fa = sistema, Kuen-Sung = estilo
+22. Influências confucionista (transmissão/ordem), taoista (movimento/yin-yang), budista (não-dano)
+23. Sistema de Kung Fu como lista onde ordem importa
+24. San Fat vs Vida Kung Fu — interpretação de Si Taai Gung para não-chineses
+25. "Momento programado" — Jullien, moment opportun, paradoxo de agendar o espontâneo
+26. Marcialidade como produto primário, desenvolvimento humano como subproduto
+27. Chi Sau como alma do sistema — método indireto, desenvolve atributos
+28. Mito vs rito — narrativas dão permanência a práticas, não são reivindicações históricas
+29. Pré-requisitos amplos = sistema mais eficaz — minimizar barreiras de entrada
+30. Escrita como revisitação e treino de articulação — pré-requisito de mestria
+*/}
