@@ -4,6 +4,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://vingtsun.thluiz.com',
 	integrations: [
 		starlight({
 			title: 'Ving Tsun: A System Guide',
