@@ -79,8 +79,9 @@ Não é coincidência que o sistema Ving Tsun leve o nome de uma mulher. Yim Vin
 */}
 
 {/*
-### Pontos da reunião sobre Programa de Mestrado a serem (re)considerados:
+### Pontos dos Encontros do Programa de Mestrado a serem (re)considerados:
 
+--- 1o Encontro (11/03/2026) ---
 1. Pessoa (人) vs Humano (仁) — desenvolvimento pessoal vs desenvolvimento humano através do outro
 2. Alteroconhecimento — conhecimento adquirido a partir do outro
 3. Kung Fu como prudência — executar da melhor forma com menor gasto de energia
@@ -93,4 +94,16 @@ Não é coincidência que o sistema Ving Tsun leve o nome de uma mulher. Yim Vin
 10. Kung Fu como conceito + processo + resultante
 11. Maturidade como alvo móvel — nunca "pronto", atualização constante
 12. Sistema como membrana de preservação → ponte para cap 2
+
+--- 3o Encontro (17/04/2026) --- ver sumario-encontro3.json
+13. Kung Fu como processo vs resultado (S3) — duplo sentido; SNT como termômetro diário
+14. Aretê grega — excelência = cumprir o papel no cosmos (S3)
+15. "Definir Kung Fu é limitá-lo" — reforça "chaves de leitura" em vez de definição (S11)
+16. Marcialidade ≠ luta — Marte = guerra consigo, combate interno como eixo (S16/D5)
+17. Sifu como função relacional — "não existe Kung Fu sem Sifu" (S13)
+18. Kung Fu "serve para nada" — armadilha utilitarista (S8/S15)
+19. Arte de saber viver a própria vida — Thiago citando Si Kung (S12)
+20. Adaptação e sobrevivência relacional — Vladimir (S14)
+21. Calibragem da percepção — Claudio (S10)
+22. Kung Fu (subjetivo) vs Sistema (objetivo) — ponte exata para cap 2 (S5)
 */}

@@ -81,7 +81,9 @@ A mágica sistêmica ocorre quando, ao estudar o sistema para desenvolvimento do
 {/* Pontos pendentes deste capítulo — ver TODO.md na raiz do projeto */}
 
 {/*
-### Pontos do Encontro 2 (Programa de Mestrado) a serem (re)considerados:
+### Pontos dos Encontros do Programa de Mestrado a serem (re)considerados:
+
+--- 2o Encontro ---
 
 1. Etimologia: "sistema" no grego = "aquilo que se mantém junto"; em chinês hai tong = "reunião de fios"
 2. Sistema como input-processamento-output vs sistema chinês como lista/receita (ordem altera o produto)
@@ -113,4 +115,11 @@ A mágica sistêmica ocorre quando, ao estudar o sistema para desenvolvimento do
 28. Mito vs rito — narrativas dão permanência a práticas, não são reivindicações históricas
 29. Pré-requisitos amplos = sistema mais eficaz — minimizar barreiras de entrada
 30. Escrita como revisitação e treino de articulação — pré-requisito de mestria
+
+--- 3o Encontro (17/04/2026) --- ver sumario-encontro3.json
+31. Kung Fu (subjetivo) vs Sistema (objetivo) — Si Fu: sistema é aspecto objetivo, quase material (S5)
+32. Marcialidade ≠ luta — sistema exige técnicas de combate, mas marcialidade = combate interno (S16/D5)
+33. "O sistema é mudo" / "definir é limitar" — praticante interpreta, sistema não prescreve (S11)
+34. Sem sistema, Kung Fu para de evoluir — armadilha do autoaprisionamento (S12)
+35. Livro "Fundamentos do Kung Fu, vol.1 Marcialidade" — referenciado diretamente por Si Fu
 */}

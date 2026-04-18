@@ -1,7 +1,7 @@
 # TODO — Ving Tsun: A System Guide
 
 Pontos em aberto para escrita, pesquisa e discussão com Si Fu.
-Atualizado: 2026-04-01.
+Atualizado: 2026-04-18.
 
 ---
 
@@ -10,8 +10,8 @@ Atualizado: 2026-04-01.
 | Capítulo | Status | ~Palavras | ~Páginas | Meta (~páginas) |
 |----------|--------|-----------|----------|-----------------|
 | 00 - Prefácio | 90% | 326 | 1,3 | 3-4 |
-| 01 - Kung Fu | 60% | 1100 | 4,4 | 22 |
-| 02 - Sistema Ving Tsun | Planejado | 0 | 0 | 32 |
+| 01 - Kung Fu | 60% | 1800 | 7,2 | 22 |
+| 02 - Sistema Ving Tsun | 40% | 1580 | 6,3 | 32 |
 | 03 - A Arte da Lista | Planejado | 0 | 0 | 20 |
 | 04 - Pensamento Sistêmico | Planejado | 0 | 0 | 22 |
 | 05 - VT como Educador Sistêmico | Planejado | 0 | 0 | 24 |
@@ -61,7 +61,10 @@ Suficiente para escrever sem pesquisa adicional.
   - Combate como experiência mobilizadora: estender para a conduta o que se tomou consciência a partir do outro
   - Conectar para entender o outro, no processo entender a si mesmo
   - Moy Yat: "Kung Fu não é para a luta. O melhor lutador não é o que tem melhor habilidade, mas sim aquele que tem melhor comportamento e boas maneiras"
-  - **Fontes:** playlist `GgoD2DXI3ro` e `Ea0UoCcdeMc` (inteligência marcial). Precisa de mais material do Si Fu.
+  - 🆕 **3o Encontro** — Si Fu: Kung Fu "serve para nada" em termos utilitários; a pergunta "para que serve" é utilitarista e limitadora (S8/S15). Guilherme propõe os três pilares trabalho/energia/fu.
+  - 🆕 **3o Encontro** — Si Fu: "não existe um Kung Fu sem Sifu" — Sifu como função relacional, não pessoa. Impossibilidade de auto-Kung Fu como ponto de partida (S13). Conecta com Pessoa vs Humano.
+  - 🆕 **3o Encontro** — D3: pode haver Kung Fu com fins destrutivos? Moralidade, maniqueísmo bem/mal, Freud e perversão como "desvio" (S7)
+  - **Fontes:** playlist `GgoD2DXI3ro` e `Ea0UoCcdeMc` (inteligência marcial), `sumario-encontro3.json` S7/S8/S13/S15/D3.
 
 - [ ] **A arte de viver bem a própria vida** ⚠️ Discutir com Si Fu
   - Neo-confucianos Song: Kung Fu como arte de viver em geral
@@ -69,26 +72,43 @@ Suficiente para escrever sem pesquisa adicional.
   - Peimin Ni / Pierre Hadot: "se a filosofia é um caminho de vida, a abordagem Kung Fu sugere que tomemos a filosofia como a busca da arte de viver bem"
   - Moy Yat: "existe para melhorar sua vida"
   - Orientação predominante do pensamento clássico chinês: como devemos viver nossas vidas
-  - **Fontes:** playlist `ivcoMBfHm3A` (O que é Kung Fu). Suficiente para um primeiro rascunho.
+  - 🆕 **3o Encontro** — Thiago Silva: "Kung Fu é a arte de saber viver a própria vida" (citando Si Kung), aprimorada pela capacidade de fazer melhor. Sem sistema, o Kung Fu para de evoluir — armadilha do autoaprisionamento (S12)
+  - **Fontes:** playlist `ivcoMBfHm3A` (O que é Kung Fu), `sumario-encontro3.json` S12. Suficiente para um primeiro rascunho.
 
 - [ ] **Ponte para o capítulo 2** — como o Ving Tsun organiza esse processo
   - Incluir: sistema como membrana de preservação (JKD como contra-exemplo)
+  - 🆕 **3o Encontro** — Si Fu: Kung Fu é subjetivo (processo/resultado), sistema é objetivo (aspecto quase material). A separação é a ponte exata para o cap 2 (S5)
 
 ### Pontos da reunião Programa de Mestrado (11/03/2026) ⚠️ Discutir com Si Fu
 
 Fonte: `fontes/Programa de Mestrado - 2026_03_11 [...] Sobre Kung Fu.md`
 
 - [ ] **Pessoa (人) vs Humano (仁)** — desenvolvimento pessoal é individual, desenvolvimento humano ocorre através da conexão com o outro. Ideograma 仁 = duas pessoas.
+  - 🆕 **3o Encontro** — Si Fu: "incluir o outro para o meu desenvolvimento" como concepção da família; Sifu como função relacional que só existe para/com o Todai (S7/S13)
 - [ ] **Alteroconhecimento** — conhecimento adquirido a partir do outro. Consciência = "com" (conjunto) + "ciência" (saber).
 - [ ] **Kung Fu como prudência** — executar da melhor forma com menor gasto de energia. Parcimônia, previsão, antecipação. Analogia do carro que percorre mais com menos combustível.
 - [ ] **Dilema dedicação vs eficiência** — quem tem mais Kung Fu: quem se dedicou mais ou quem fez melhor com menos? Sem resposta única. Demonstra a complexidade do conceito.
 - [ ] **Atenção e tensão** — attendere (esticar-se para). Tensão e relaxamento não são bons/ruins, dependem da medida. Corda do instrumento: frouxa não soa, esticada arrebenta.
 - [ ] **Desenvolvimento como retirada de camadas** — des-envolvimento = retirar envolvimentos que atrapalham a essência. Inicia com consciência, frequentemente através do contato com o outro.
+  - 🆕 **3o Encontro** — Guilherme: desenvolvimento como "retirar aquilo que não serve mais" (vaidade, etc.) para o processo se desenvolver melhor (S8/S9)
 - [ ] **Excelência como movimento, não estado** — diferente de perfeição (abstração). Língua chinesa foca no movimento (ir para/ir de) mais que no estado (estar em).
+  - 🆕 **3o Encontro** — Si Fu: aretê grega = cumprir precisamente o seu papel no cosmos, sem desperdício. Não é desenvolver habilidade ótima, é cumprir o papel. Márcio: "arte da excelência" (S2/S3)
 - [ ] **Desfrute e hedonismo** — Kung Fu bem vivido como fonte de prazer. Hedonismo = extrair prazer do que se tem, não busca incessante. Wu Wei / fluir.
 - [ ] **Universalidade do Kung Fu** — como futebol (inglês → universal). Preservar o simbólico, evitar "chinesismos". Aprender novos idiomas ativa áreas diferentes do cérebro.
 - [ ] **Kung Fu como conceito + processo + resultante** — trabalham concomitantemente. Conceito vem de tradições, processo via formalidades sistêmicas, resultante gera novas inteligências.
+  - 🆕 **3o Encontro** — Si Fu: duplo sentido processo/resultado é central. Processo = nível de interação subjetiva com a experiência (auto-reconhecimento). Resultado = gestão de energia, fazer o máximo sem "qualquer preço". Exemplo: Siu Nim Tau de manhã (como estou?) e à noite (como foi o dia?) como termômetro pessoal (S3)
 - [ ] **Maturidade como alvo móvel** — na filosofia, maturidade é ponto preliminar da decadência. Ser humano em "atualização" constante, nunca "pronto". Acreditar-se pronto transforma humano em objeto.
+
+### Pontos do 3o Encontro — Programa de Mestrado (17/04/2026) — NOVOS
+
+Fonte: `fontes/3o encontro programa de mestrado/sumario-encontro3.json` + transcrição
+
+- [ ] **"Definir Kung Fu é limitá-lo"** — Si Fu critica a armadilha de definir. Meta-pertinente: reforça a escolha do cap 1 de dar "chaves de leitura" e não definição. Pode abrir ou fechar o capítulo. (S11)
+- [ ] **Marcialidade ≠ luta / combate interno** — Marcialidade vem de Marte (guerra consigo, medos, inseguranças). Luta usa ferramental de combate, mas objetivo é "lutar comigo, não com o outro". Enriquece seção "Marcialidade" existente. (S16/D5)
+- [ ] **Siu Nim Tau como termômetro pessoal** — Si Fu: SNT de manhã (como estou hoje?) e à noite (saldo do dia). Exemplo vivo de Kung Fu como processo de auto-reconhecimento. Box ou exemplo concreto no texto. (dentro de S3)
+- [ ] **Utilitarismo como armadilha conceitual** — "Para que serve o Kung Fu?" é pergunta errada. Si Fu: Kung Fu "serve para nada" em termos utilitários. Explicação dos 3 princípios (maior felicidade, consequencialismo, imparcialidade). Vladimir se prova não-utilitarista. Guilherme quase caiu na armadilha. (S8/S15)
+- [ ] **Kung Fu como adaptação e sobrevivência relacional** — Vladimir: refinamento do relacionamento com mundo/ambiente, adaptar-se a contextos hostis sem perder valores, família como núcleo de treino. "Fazer o melhor com o que tem" = Kung Fu. (S14)
+- [ ] **Calibragem da percepção e soberania** — Claudio: Kung Fu como "lente" de avaliação, processo = calibrar percepção constante, resultado = refinamento da reação. Soberania como reger a si mesmo. Si Fu corrige: definição fecha, soberania é parte mas não totalidade. (S10/S11)
 
 ### Pendente — outros capítulos (nasceu aqui, mora lá)
 
@@ -135,10 +155,13 @@ Fonte: `fontes/Programa de Mestrado - 2026_03_11 [...] Sobre Kung Fu.md`
 - [ ] Sistema é artificial (positivo) — nenhum gesto é natural, tudo foi desenhado
 - [ ] Natureza emerge, não se prescreve — não dizer "a natureza do SND é X"
 - [ ] "O sistema é mudo" — interpretação é do praticante
+  - 🆕 **3o Encontro** — Si Fu: "definir é limitar"; tentar definir o que cada técnica "é" é fechar o campo. O sistema não diz nada, o praticante interpreta (S11)
 - [ ] Sistema como partitura / maestro — partitura fixa, artista na interpretação
 - [ ] Começar dentro do sistema, eventualmente descolar
+  - 🆕 **3o Encontro** — Thiago: sem sistema o Kung Fu para de evoluir, praticante fica "refém de si mesmo". Sistema como arcabouço para continuar refinando (S12)
 - [ ] Interdependência, não independência — entrar no sistema já o afeta
 - [ ] Fita de Moebius — para ficar bom, precisa transmitir
+- [ ] 🆕 **Kung Fu (subjetivo) vs Sistema (objetivo)** — Si Fu: Kung Fu é processo/resultado (subjetivo, auto-avaliação). Sistema é a parte objetiva, quase material. "Você usou Kung Fu na relação, não Wing Chun" (S5). Distinção fundante para o cap 2.
 
 ### Pendente — transmissão e genealogia
 - [ ] Ensinar vs transmitir vs aprender — Si Fu transmite sistema, ensina cultura
@@ -152,6 +175,7 @@ Fonte: `fontes/Programa de Mestrado - 2026_03_11 [...] Sobre Kung Fu.md`
 
 ### Pendente — marcialidade e vida
 - [ ] Marcialidade como produto primário, desenvolvimento humano como subproduto
+  - 🆕 **3o Encontro** — Si Fu: sistema exige técnicas de combate (impossível sem), mas marcialidade = combate interno. O desconforto da marcialidade é necessário mas não deve ser primazia (senão sobra pouco para aprendizado). Equilíbrio: nem conforto total, nem risco real (S16/D5)
 - [ ] Chi Sau como alma do sistema — método indireto
 - [ ] San Fat vs Vida Kung Fu — interpretação de Si Taai Gung
 - [ ] "Momento programado" — paradoxo de agendar o espontâneo (Jullien)
@@ -162,7 +186,7 @@ Fonte: `fontes/Programa de Mestrado - 2026_03_11 [...] Sobre Kung Fu.md`
 - [ ] Denominação Moy Yat Ving Tsun
 
 ### Fontes disponíveis
-`Ving Tsun Kuen Sut.pdf`, `HAI TONG por MOY YAT.pdf`, `VTExp2022 - SND - Listagem.pdf`, `SND - Linha Central.pdf`, `BJ - Apresentação1.pdf`, **`Programa de Mestrado - Encontro 2 - sistemas - transcricao.txt`** (fonte primária). Fontes ricas, prontas para escrita.
+`Ving Tsun Kuen Sut.pdf`, `HAI TONG por MOY YAT.pdf`, `VTExp2022 - SND - Listagem.pdf`, `SND - Linha Central.pdf`, `BJ - Apresentação1.pdf`, **`Programa de Mestrado - Encontro 2 - sistemas - transcricao.txt`** (fonte primária), **`3o encontro programa de mestrado/sumario-encontro3.json`** (3o Encontro — marcialidade, Kung Fu vs Sistema, Fundamentos do Kung Fu vol.1 como ref). Fontes ricas, prontas para escrita.
 
 ---
 
