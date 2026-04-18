@@ -1,21 +1,133 @@
+/* ══════════════════════════════════════════════════
+   Moy Jo Lei Ou Family — Color Palette
+
+   Primary:   Ghost White  #F2EEF2  (pureza, transmissão)
+   Secondary: Purple       #800080  (sabedoria, nobreza)
+   Accent:    Gold         #FFD700  (excelência, maestria)
+   Dark:      Dark Purple  #330B33  (profundidade)
+   Darkest:   Russ. Violet #150436  (fundação)
+
+   Values:    Pureza · Sabedoria · Excelência · Amizade
+   ══════════════════════════════════════════════════ */
+
+/* ── Dark mode (default) ── */
+:root {
+	/* Tipografia — Crimson Pro no corpo */
+	--sl-font: 'Crimson Pro', Georgia, serif;
+	--sl-text-body: 1.125rem;           /* 18px (era 16px) */
+
+	/* Gray scale — quase neutro com sutil calor púrpura */
+	--sl-color-white: #F2EEF2;
+	--sl-color-gray-1: #d5d0d6;
+	--sl-color-gray-2: #b5aeb8;
+	--sl-color-gray-3: #867e8c;
+	--sl-color-gray-4: #564e5c;
+	--sl-color-gray-5: #2e2434;
+	--sl-color-gray-6: #1e1426;
+	--sl-color-black: #150436;
+
+	/* Accent — ouro */
+	--sl-color-accent-low: #382808;
+	--sl-color-accent: #FFD700;
+	--sl-color-accent-high: #ffe04a;
+
+	--sl-color-text-accent: #FFD700;
+
+	/* Aside hues harmonizados */
+	--sl-hue-purple: 300;
+	--sl-hue-blue: 258;
+}
+
+/* ── Light mode ── */
+[data-theme='light'],
+:root[data-theme='light'] {
+	/* Gray scale — tom púrpura visível mas contido */
+	--sl-color-white: #3d1650;          /* Texto principal: púrpura escuro */
+	--sl-color-gray-1: #4a2060;         /* Headings */
+	--sl-color-gray-2: #5e3872;         /* Texto secundário */
+	--sl-color-gray-3: #806890;         /* Texto terciário */
+	--sl-color-gray-4: #a898b0;         /* Bordas */
+	--sl-color-gray-5: #d6cedc;         /* Separadores leves */
+	--sl-color-gray-6: #e8e2ec;         /* Inline code bg */
+	--sl-color-gray-7: #eee9f0;         /* Nav bg */
+	--sl-color-black: #F8F5F8;          /* Fundo: prata rosada mais clara */
+
+	/* Accent — púrpura régio, profundo e amortecido */
+	--sl-color-accent-low: #f0e8f2;
+	--sl-color-accent: #6b2d6b;
+	--sl-color-accent-high: #4a1a4a;
+
+	--sl-color-text-accent: #6b2d6b;
+	--sl-color-text-invert: #F2EEF2;
+	--sl-color-bg-nav: var(--sl-color-gray-7);
+	--sl-color-bg-accent: #6b2d6b;      /* Sidebar ativa: fundo púrpura */
+}
+
+/* ═══════════════════════════════════════════════
+   Navigation & Sidebar
+   ═══════════════════════════════════════════════ */
+
+:root:not([data-theme='light']) a[aria-current="page"],
+:root:not([data-theme='light']) [data-current] {
+	--sl-color-text-accent: #FFD700;
+}
+
+:root:not([data-theme='light']) .sidebar-content a[aria-current="page"] {
+	color: #FFD700;
+}
+
+/* ═══════════════════════════════════════════════
+   Tipografia — DM Sans nos headings e navegação
+   ═══════════════════════════════════════════════ */
+
+h1, h2, h3, h4, h5, h6,
+.sidebar-content,
+header.header {
+	font-family: 'DM Sans', system-ui, sans-serif;
+}
+
+/* ═══════════════════════════════════════════════
+   Hero
+   ═══════════════════════════════════════════════ */
+
 .hero h1 small {
 	font-size: 0.6em;
 	font-weight: 400;
 	opacity: 0.85;
 }
 
-/* Epigraph — first blockquote in chapter content styled as opening quote */
+/* ═══════════════════════════════════════════════
+   Epigraph — primeira blockquote do capítulo
+   ═══════════════════════════════════════════════ */
+
 .sl-markdown-content > blockquote:first-child {
 	border-inline-start: none;
 	text-align: center;
-	margin: 1rem 2rem 2.5rem;
+	margin: 1.5rem 2.5rem 2.5rem;
 	padding: 0;
 	font-size: 1.05em;
-	line-height: 1.7;
+	line-height: 1.8;
 	color: var(--sl-color-gray-2);
+	font-style: italic;
 }
 
 .sl-markdown-content > blockquote:first-child p:last-child {
 	text-align: right;
-	font-size: 0.9em;
+	font-size: 0.88em;
+	font-style: normal;
+	letter-spacing: 0.02em;
+}
+
+/* ═══════════════════════════════════════════════
+   Scrollbar — visível apenas no hover
+   ═══════════════════════════════════════════════ */
+
+* {
+	scrollbar-width: thin;
+	scrollbar-color: transparent transparent;
+	transition: scrollbar-color 0.3s;
+}
+
+*:hover {
+	scrollbar-color: var(--sl-color-gray-4) transparent;
 }

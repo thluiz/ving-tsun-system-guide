@@ -8,7 +8,15 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Ving Tsun: A System Guide',
-			customCss: ['./src/styles/custom.css'],
+			customCss: [
+				'@fontsource/dm-sans/400.css',
+				'@fontsource/dm-sans/600.css',
+				'@fontsource/dm-sans/700.css',
+				'@fontsource/crimson-pro/400.css',
+				'@fontsource/crimson-pro/400-italic.css',
+				'@fontsource/crimson-pro/600.css',
+				'./src/styles/custom.css',
+			],
 			defaultLocale: 'pt-br',
 			locales: {
 				'pt-br': {
