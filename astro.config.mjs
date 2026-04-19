@@ -1,6 +1,12 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import { readFileSync } from 'node:fs';
+
+const buildVersion = (() => {
+	try { return JSON.parse(readFileSync('public/version.json', 'utf8')).v; }
+	catch { return Date.now(); }
+})();
 
 // https://astro.build/config
 export default defineConfig({
@@ -32,6 +38,25 @@ export default defineConfig({
 								oldKbd.innerHTML = '<kbd>/</kbd>';
 							}
 						});
+
+						(function() {
+							const BUILD_VERSION = ${buildVersion};
+							function checkVersion() {
+								fetch('/version.json?_=' + Date.now())
+									.then(r => r.json())
+									.then(d => {
+										if (d.v && d.v > BUILD_VERSION && !document.getElementById('vt-update-banner')) {
+											const bar = document.createElement('div');
+											bar.id = 'vt-update-banner';
+											bar.innerHTML = 'Nova versão disponível. <button onclick="location.reload(true)">Atualizar</button>';
+											document.body.prepend(bar);
+										}
+									})
+									.catch(() => {});
+							}
+							setTimeout(checkVersion, 10000);
+							setInterval(checkVersion, 120000);
+						})();
 
 						(function() {
 							const SIZES = [1.125, 1.25, 1.375, 1.5, 1.625];
