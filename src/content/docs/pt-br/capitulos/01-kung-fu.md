@@ -69,8 +69,6 @@ Percepção, moderação, flexibilidade, sutileza, intuição, antecipação, a 
 
 Não é coincidência que o sistema Ving Tsun leve o nome de uma mulher. Yim Ving Tsun não é apenas a fundadora. É o símbolo dessa tradição. Um sistema que não vence pela força, mas pela inteligência da posição. Que não busca suprimir o oponente, mas envolvê-lo tornando a sua situação inelutável.
 
-{/* Pontos pendentes deste capítulo — ver TODO.md na raiz do projeto */}
-
 {/* TODO (seção "arte de viver bem"): Kung Fu como capacidade de transpor conhecimentos
    - Em um olhar raso, Kung Fu pode ser interpretado como a capacidade de executar ações,
      porém confunde-se o resultado com o processo para chegar nele.
@@ -80,10 +78,11 @@ Não é coincidência que o sistema Ving Tsun leve o nome de uma mulher. Yim Vin
      de uma área em outra podemos chamar de Kung Fu.
 */}
 
-{/*
-### Pontos dos Encontros do Programa de Mestrado a serem (re)considerados:
+---
 
-1o Encontro (11/03/2026)
+## *Encontros de Mestrado*
+
+### *I Encontro (11/03/2026)*
 
 1. Pessoa (人) vs Humano (仁) — desenvolvimento pessoal vs desenvolvimento humano através do outro
 
@@ -109,7 +108,7 @@ Não é coincidência que o sistema Ving Tsun leve o nome de uma mulher. Yim Vin
 
 12. Sistema como membrana de preservação → ponte para cap 2
 
-3o Encontro (17/04/2026) - ver sumario-encontro3.json
+### *III Encontro (17/04/2026)*
 
 13. Kung Fu como processo vs resultado (S3) — duplo sentido; SNT como termômetro diário
 
@@ -130,4 +129,3 @@ Não é coincidência que o sistema Ving Tsun leve o nome de uma mulher. Yim Vin
 21. Calibragem da percepção — Claudio (S10)
 
 22. Kung Fu (subjetivo) vs Sistema (objetivo) — ponte exata para cap 2 (S5)
-*/}
