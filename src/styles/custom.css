@@ -206,3 +206,34 @@ header.header {
 	color: var(--sl-color-white);
 	background: var(--sl-color-gray-5);
 }
+
+/* ═══════════════════════════════════════════════
+   Banner de atualização
+   ═══════════════════════════════════════════════ */
+
+#vt-update-banner {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 100;
+	background: #6b2d6b;
+	color: #F2EEF2;
+	text-align: center;
+	padding: 0.5rem 1rem;
+	font-family: 'DM Sans', system-ui, sans-serif;
+	font-size: 0.875rem;
+}
+
+#vt-update-banner button {
+	background: #F2EEF2;
+	color: #6b2d6b;
+	border: none;
+	border-radius: 0.25rem;
+	padding: 0.2em 0.8em;
+	margin-left: 0.5rem;
+	cursor: pointer;
+	font-family: inherit;
+	font-size: inherit;
+	font-weight: 600;
+}

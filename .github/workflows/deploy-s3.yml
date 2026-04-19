@@ -42,6 +42,11 @@ jobs:
             --include "*.txt" \
             --cache-control "public, max-age=3600"
 
+      - name: Sync version.json (no cache)
+        run: |
+          aws s3 cp dist/version.json s3://${{ secrets.AWS_S3_BUCKET }}/version.json \
+            --cache-control "no-cache, no-store, must-revalidate"
+
       - name: Sync static assets (1y cache)
         run: |
           aws s3 sync dist/ s3://${{ secrets.AWS_S3_BUCKET }}/ \
