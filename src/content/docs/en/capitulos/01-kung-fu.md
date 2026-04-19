@@ -1,5 +1,7 @@
 ---
 title: "Chapter 1: Kung Fu"
+sidebar:
+  label: "Ch. 1: Kung Fu"
 description: "What is Kung Fu — the book's gateway. Etymology, life approach, and the broad meaning that underpins the entire Ving Tsun System."
 ---
 

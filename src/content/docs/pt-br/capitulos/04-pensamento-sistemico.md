@@ -1,5 +1,7 @@
 ---
 title: "Capítulo 4: Pensamento Sistêmico — Ocidente e Oriente"
+sidebar:
+  label: "Cap. 4: Pensamento Sistêmico"
 description: "O que é pensamento sistêmico e como China e Ocidente chegaram a ele por caminhos diferentes."
 ---
 

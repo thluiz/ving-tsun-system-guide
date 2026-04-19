@@ -1,5 +1,7 @@
 ---
 title: "Capítulo 1: Kung Fu"
+sidebar:
+  label: "Cap. 1: Kung Fu"
 description: "O que é Kung Fu — a porta de entrada do livro. Etimologia, abordagem de vida e o sentido amplo que fundamenta todo o Sistema Ving Tsun."
 ---
 
@@ -95,15 +97,25 @@ Não é coincidência que o sistema Ving Tsun leve o nome de uma mulher. Yim Vin
 11. Maturidade como alvo móvel — nunca "pronto", atualização constante
 12. Sistema como membrana de preservação → ponte para cap 2
 
---- 3o Encontro (17/04/2026) --- ver sumario-encontro3.json
+3o Encontro (17/04/2026) - ver sumario-encontro3.json
+
 13. Kung Fu como processo vs resultado (S3) — duplo sentido; SNT como termômetro diário
+
 14. Aretê grega — excelência = cumprir o papel no cosmos (S3)
+
 15. "Definir Kung Fu é limitá-lo" — reforça "chaves de leitura" em vez de definição (S11)
+
 16. Marcialidade ≠ luta — Marte = guerra consigo, combate interno como eixo (S16/D5)
+
 17. Sifu como função relacional — "não existe Kung Fu sem Sifu" (S13)
+
 18. Kung Fu "serve para nada" — armadilha utilitarista (S8/S15)
+
 19. Arte de saber viver a própria vida — Thiago citando Si Kung (S12)
+
 20. Adaptação e sobrevivência relacional — Vladimir (S14)
+
 21. Calibragem da percepção — Claudio (S10)
+
 22. Kung Fu (subjetivo) vs Sistema (objetivo) — ponte exata para cap 2 (S5)
 */}

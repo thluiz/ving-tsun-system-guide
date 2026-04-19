@@ -14,23 +14,27 @@
 :root {
 	/* Tipografia — Crimson Pro no corpo */
 	--sl-font: 'Crimson Pro', Georgia, serif;
-	--sl-text-body: 1.125rem;           /* 18px (era 16px) */
+	--sl-text-body: 1.375rem;           /* 22px */
+	--sl-content-width: 55rem;          /* Área de texto mais larga */
+	--sl-sidebar-width: 18rem;          /* Sidebar com espaço para títulos */
+	--sl-sidebar-pad-x: 2.5rem;         /* Descola sidebar da borda esquerda */
+	--sl-content-pad-x: 2.5rem;         /* Respiro entre sidebar e texto */
+	--sl-main-pad: 0 0 5rem 0;          /* Espaço no footer para o widget A-/A+ */
 
 	/* Gray scale — quase neutro com sutil calor púrpura */
 	--sl-color-white: #F2EEF2;
 	--sl-color-gray-1: #d5d0d6;
-	--sl-color-gray-2: #b5aeb8;
+	--sl-color-gray-2: #cdc6d0;
 	--sl-color-gray-3: #867e8c;
 	--sl-color-gray-4: #564e5c;
 	--sl-color-gray-5: #2e2434;
-	--sl-color-gray-6: #1e1426;
+	--sl-color-gray-6: #150436;          /* Mesmo tom do fundo — sidebar uniforme */
 	--sl-color-black: #150436;
 
 	/* Accent — ouro */
 	--sl-color-accent-low: #382808;
 	--sl-color-accent: #FFD700;
 	--sl-color-accent-high: #ffe04a;
-
 	--sl-color-text-accent: #FFD700;
 
 	/* Aside hues harmonizados */
@@ -50,7 +54,7 @@
 	--sl-color-gray-5: #d6cedc;         /* Separadores leves */
 	--sl-color-gray-6: #e8e2ec;         /* Inline code bg */
 	--sl-color-gray-7: #eee9f0;         /* Nav bg */
-	--sl-color-black: #F8F5F8;          /* Fundo: prata rosada mais clara */
+	--sl-color-black: #FCFAFC;          /* Fundo: prata rosada, quase branco */
 
 	/* Accent — púrpura régio, profundo e amortecido */
 	--sl-color-accent-low: #f0e8f2;
@@ -74,6 +78,10 @@
 
 :root:not([data-theme='light']) .sidebar-content a[aria-current="page"] {
 	color: #FFD700;
+	background: #2a1840;
+	border-radius: 0.25rem;
+	padding: 0.2em 0.5em;
+	margin: -0.2em -0.5em;
 }
 
 /* ═══════════════════════════════════════════════
@@ -81,7 +89,12 @@
    ═══════════════════════════════════════════════ */
 
 h1, h2, h3, h4, h5, h6,
-.sidebar-content,
+.sidebar-content a {
+	text-wrap: balance;
+}
+
+h1, h2, h3, h4, h5, h6,
+.sidebar-content a,
 header.header {
 	font-family: 'DM Sans', system-ui, sans-serif;
 }
@@ -130,4 +143,82 @@ header.header {
 
 *:hover {
 	scrollbar-color: var(--sl-color-gray-4) transparent;
+}
+
+/* ═══════════════════════════════════════════════
+   Pesquisa — esconde "Ctrl K", mostra "/"
+   ═══════════════════════════════════════════════ */
+
+[data-open-modal] .sl-flex {
+	visibility: hidden;
+	position: relative;
+	width: 1.5em;
+}
+
+[data-open-modal] .sl-flex::after {
+	content: '/';
+	visibility: visible;
+	position: absolute;
+	inset: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: 'DM Sans', system-ui, sans-serif;
+	font-size: 0.85em;
+	border: 1px solid var(--sl-color-gray-4);
+	border-radius: 0.25em;
+	padding: 0.1em 0.4em;
+}
+
+/* ═══════════════════════════════════════════════
+   Mobile — margens reduzidas
+   ═══════════════════════════════════════════════ */
+
+@media (max-width: 50em) {
+	:root {
+		--sl-content-pad-x: 0.75rem;
+	}
+}
+
+
+.sl-markdown-content {
+	font-size: var(--vt-body-size, 1.375rem);
+}
+
+/* ═══════════════════════════════════════════════
+   Controle de fonte — A-/A+
+   ═══════════════════════════════════════════════ */
+
+.vt-font-ctrl {
+	position: fixed;
+	bottom: 1.5rem;
+	right: 1.5rem;
+	z-index: 20;
+	display: flex;
+	align-items: center;
+	gap: 0.25rem;
+	font-family: 'DM Sans', system-ui, sans-serif;
+	font-size: 0.9rem;
+	background: var(--sl-color-bg);
+	border: 1px solid var(--sl-color-gray-4);
+	border-radius: 0.5rem;
+	padding: 0.3rem;
+	box-shadow: 0 2px 8px hsla(280, 40%, 4%, 0.3);
+}
+
+.vt-font-ctrl button {
+	background: none;
+	border: none;
+	color: var(--sl-color-gray-2);
+	border-radius: 0.25rem;
+	padding: 0.3em 0.5em;
+	cursor: pointer;
+	font-family: inherit;
+	font-size: inherit;
+	line-height: 1;
+}
+
+.vt-font-ctrl button:hover {
+	color: var(--sl-color-white);
+	background: var(--sl-color-gray-5);
 }

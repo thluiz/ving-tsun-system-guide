@@ -1,5 +1,7 @@
 ---
 title: "Chapter 6: Life-Kung Fu — Sam Faat"
+sidebar:
+  label: "Ch. 6: Life-Kung Fu"
 description: "The Life-Kung Fu process and mind-to-mind transmission (Sam Faat 心法)."
 ---
 

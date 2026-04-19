@@ -1,5 +1,7 @@
 ---
 title: "Chapter 4: Systems Thinking — West and East"
+sidebar:
+  label: "Ch. 4: Systems Thinking"
 description: "What is systems thinking and how China and the West arrived at it through different paths."
 ---
 
