@@ -9,17 +9,17 @@ description: "O que é Kung Fu — a porta de entrada do livro. Etimologia, abor
 >
 > ~ Grão-Mestre Moy Yat
 
-O conhecimento comum associa Kung Fu a socos, chutes, Bruce Lee ou alguma série da década de 1970. O curioso é que o termo chinês para artes marciais é outro: Mou Seut (武術), a junção de 武 (marcial) com 術 (arte, método). Kung Fu (功夫) não tem nada a ver com combate. Sua associação às artes marciais somente é salientada pela academia Chin Wu (精武) já no final do século XIX e para o XX. Mas o cinema de Hong Kong nos anos 70 colou os dois de tal forma que até entre chineses hoje o termo é usado quase exclusivamente para tratar de luta.
+O conhecimento comum associa Kung Fu a socos, chutes, Bruce Lee ou alguma série da década de 1970. O curioso é que o termo chinês para artes marciais é outro: Mou Seut 武術 (Wǔshù / mou5 seut6), a junção de 武 (Wǔ / mou5, marcial) com 術 (Shù / seut6, arte, método). Kung Fu 功夫 (Gōngfu / gung1 fu1) não tem nada a ver com combate. Sua associação às artes marciais somente é salientada pela academia Chin Wu 精武 (Jīngwǔ / zing1 mou5) já no final do século XIX e para o XX. Mas o cinema de Hong Kong nos anos 70 colou os dois de tal forma que até entre chineses hoje o termo é usado quase exclusivamente para tratar de luta.
 
 ## O que quer dizer Kung Fu (功夫)?
 
 Não existe uma tradução direta. É um daqueles termos que moram no espaço entre línguas, onde uma palavra carrega mais do que qualquer equivalente consegue acomodar. Ao longo deste capítulo vou oferecer algumas chaves de leitura, não uma definição. Si Taai Gung Moy Yat muitas vezes "resumia" dizendo que Kung Fu era vida. E como toda boa resposta de mestre, ela resolve e complica ao mesmo tempo.
 
-Os dois ideogramas que formam 功夫 já dizem bastante.
+Os dois ideogramas que formam 功夫 (Gōngfu / gung1 fu1) já dizem bastante.
 
-O primeiro, 功 (gung), é composto por dois outros: 工 (gung), que remete ao trabalho, ao esforço, muitas vezes intelectual, para executar uma tarefa, e 力 (lik), que pode ser traduzido como energia. O desenho original de 力 é um arado de terra. A junção dos dois passa a ideia de uma realização por mérito, um bom resultado por meio de trabalho dedicado.
+O primeiro, 功 (Gōng / gung1), é composto por dois outros: 工 (Gōng / gung1), que remete ao trabalho, ao esforço, muitas vezes intelectual, para executar uma tarefa, e 力 (Lì / lik6), que pode ser traduzido como energia. O desenho original de 力 é um arado de terra. A junção dos dois passa a ideia de uma realização por mérito, um bom resultado por meio de trabalho dedicado.
 
-O segundo, 夫 (fu), é formado por 大 (daai), uma grande pessoa, com uma presilha nos cabelos. Na China antiga, homens casados ou maduros prendiam o cabelo de uma forma específica. O ideograma carrega essa ideia de maturidade, de alguém que já percorreu um caminho.
+O segundo, 夫 (Fū / fu1), é formado por 大 (Dà / daai6), uma grande pessoa, com uma presilha nos cabelos. Na China antiga, homens casados ou maduros prendiam o cabelo de uma forma específica. O ideograma carrega essa ideia de maturidade, de alguém que já percorreu um caminho.
 
 Kung Fu, lido pelos seus ideogramas, seria algo como o processo de amadurecimento por meio do trabalho inteligente.
 
@@ -31,7 +31,7 @@ Se Kung Fu descreve um processo e não uma disciplina, então ele não pertence 
 
 Peimin Ni, um filósofo sino-americano, escreveu que confundir a linguagem da filosofia chinesa com um "espelho da natureza" é como confundir o cardápio com a comida. A analogia é boa demais para deixar passar. Quando alguém lê sobre Kung Fu e acha que entendeu Kung Fu, está lendo o cardápio. Kung Fu não se entende. Se pratica, se vive, se acumula. Si Taai Gung Moy Yat dizia que Kung Fu não pode ser ensinado, mas pode ser aprendido. A diferença é sutil e enorme ao mesmo tempo.
 
-Os neo-confucianos da dinastia Song já usavam o termo Kung Fu (功夫) nesse sentido amplo, como a arte de viver bem. Não como disciplina marcial, não como técnica de combate, mas como uma orientação para a vida. Ni propõe que essa é a orientação central de toda a filosofia chinesa, em contraste com a tradição ocidental que tende a tratar filosofia como exercício intelectual. No ocidente, filosofia é algo que se pensa. Na tradição chinesa, é algo que se faz.
+Os neo-confucianos da dinastia Song já usavam o termo Kung Fu 功夫 (Gōngfu / gung1 fu1) nesse sentido amplo, como a arte de viver bem. Não como disciplina marcial, não como técnica de combate, mas como uma orientação para a vida. Ni propõe que essa é a orientação central de toda a filosofia chinesa, em contraste com a tradição ocidental que tende a tratar filosofia como exercício intelectual. No ocidente, filosofia é algo que se pensa. Na tradição chinesa, é algo que se faz.
 
 François Jullien, outro pensador que passou a vida tentando traduzir o intraduzível entre China e Europa, separa ação de transformação. Ação é pontual, local, tem começo e fim. Transformação é contínua, silenciosa, global. Você não percebe enquanto acontece. A eficácia chinesa, segundo Jullien, não vem de um plano projetado com metas e prazos. Vem do que ele chama de "potencial da situação", de se posicionar de forma que o resultado surja quase sozinho.
 
@@ -61,7 +61,7 @@ Falamos aqui do Yin e do Yang, como em cada natureza há a semente da sua contra
 
 {/* TODO: procurar a citação correta de Moy Yat sobre artes Mou / atividades femininas para praticantes marciais — ver The Legends of Kung Fu Master */}
 
-A aplicação disso à guerra remonta ao Imperador Amarelo, Wong Tai. Conta-se que após sucessivas derrotas contra Chi Yau, ele recebeu orientação estratégica de uma figura feminina chamada Yun Nui (深女). A partir dali tornou-se invencível. Não porque ficou mais forte ou mais rápido, mas porque passou a operar de outro modo. A obra atribuída a ele, o Wong Tai Sei Ging ("Os Quatro Cânones do Imperador Amarelo"), defende que a eficácia se oculta sob a máscara da delicadeza. Cerca de dois mil anos depois, Sun Tzu consagrou essa ideia no Sun Zi Bing Fa (孫子兵法, A Arte da Guerra): a guerra estratégica pertence ao domínio do feminino.
+A aplicação disso à guerra remonta ao Imperador Amarelo, Wong Tai. Conta-se que após sucessivas derrotas contra Chi Yau, ele recebeu orientação estratégica de uma figura feminina chamada Yun Nui (深女). A partir dali tornou-se invencível. Não porque ficou mais forte ou mais rápido, mas porque passou a operar de outro modo. A obra atribuída a ele, o Wong Tai Sei Ging ("Os Quatro Cânones do Imperador Amarelo"), defende que a eficácia se oculta sob a máscara da delicadeza. Cerca de dois mil anos depois, Sun Tzu consagrou essa ideia no Sun Zi Bing Fa 孫子兵法 (Sūnzǐ Bīngfǎ / syun1 zi2 bing1 faat3, A Arte da Guerra): a guerra estratégica pertence ao domínio do feminino.
 
 Percepção, moderação, flexibilidade, sutileza, intuição, antecipação, a capacidade de lidar com escassez de recursos. Nenhuma dessas qualidades depende de força. Todas dependem de conexão. De ler a situação, encontrar as chaves, abrir a porta sem arrombá-la.
 
@@ -84,7 +84,7 @@ Não é coincidência que o sistema Ving Tsun leve o nome de uma mulher. Yim Vin
 
 ### *I Encontro (11/03/2026)*
 
-1. Pessoa (人) vs Humano (仁) — desenvolvimento pessoal vs desenvolvimento humano através do outro
+1. Pessoa 人 (Rén / jan4) vs Humano 仁 (Rén / jan4) — desenvolvimento pessoal vs desenvolvimento humano através do outro
 
 2. Alteroconhecimento — conhecimento adquirido a partir do outro
 

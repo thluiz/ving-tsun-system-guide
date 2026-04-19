@@ -37,9 +37,9 @@ No outro lado do mundo, a China, devido às suas convulsões internas, teve semp
 
 {/* TODO: expandir a distinção pensamento chinês (relacional) vs ocidental (elementar) — ver cap 4 para não duplicar */}
 
-## O que é o Ving Tsun Kuen? {/* TODO: ideogramas */}
+## O que é o Ving Tsun Kuen 詠春拳 (Yǒngchūn Quán / wing6 ceon1 kyun4)?
 
-O Ving Tsun em chinês será tratado como Ving Tsun Kuen Sut/To ({/* TODO: ideogramas + explicar Sut/To */}).
+O Ving Tsun em chinês será tratado como Ving Tsun Kuen Sut 詠春拳術 (Yǒngchūn Quánshù / wing6 ceon1 kyun4 seut6) ou Ving Tsun Kuen To 詠春拳道 (Yǒngchūn Quándào / wing6 ceon1 kyun4 dou6). Sut 術 (Shù / seut6) remete à arte, ao método, à técnica. To 道 (Dào / dou6) remete ao caminho, à via.
 
 O uso do chinês aqui é proposital (como sempre). O termo Kuen no jargão marcial faz referência ao que chamaríamos de estilo no ocidente. Ving Tsun é o nome de sua fundadora que o organizou e legou às gerações seguintes. Herança à qual humildemente me inscrevo a partir das portas que meu Si Fu abriu.
 
@@ -57,7 +57,7 @@ Todo sistema marcial tem como objetivo inicial treinar soldados. Esse fato corro
 
 Dizer que o Sistema Ving Tsun foi concebido para desenvolvimento de Kung Fu seria prematuro e sem base na própria genealogia familiar.
 
-O que Si Taai Gung deixou registrado em pedra na sua coleção de Kuen Kuits ({/* TODO: ideogramas */}) foi que Leung Bok Toa atribuiu a sua esposa Yim Ving Tsun a organização do sistema e transmissão.
+O que Si Taai Gung deixou registrado em pedra na sua coleção de Kuen Kuits 拳訣 (Quánjué / kyun4 kyut3) foi que Leung Bok Toa atribuiu a sua esposa Yim Ving Tsun a organização do sistema e transmissão.
 
 Yim Ving Tsun o recebeu de Ng Mui para resolução de uma opressão a que estava sendo submetida. Está dito no registro genealógico que a natureza desse sistema é ser passado para a geração posterior.
 
