@@ -80,12 +80,11 @@ A mágica sistêmica ocorre quando, ao estudar o sistema para desenvolvimento do
 - Deleuze/Guattari (1980): ideia análoga mas mais radical em Mil Platôs, Platô 12 — para eles a co-constituição é simultânea, não sequencial: "Não são as ferramentas que definem o homem, é o inverso: é a máquina, o agenciamento maquínico, que determina o que é ferramenta a cada momento." (p. 494-495, ed. Minuit). Não há "primeiro fazemos" e "depois nos faz" — o agenciamento produz sujeito e ferramenta ao mesmo tempo.
 */}
 
-{/* Pontos pendentes deste capítulo — ver TODO.md na raiz do projeto */}
+---
 
-{/*
-### Pontos dos Encontros do Programa de Mestrado a serem (re)considerados:
+## *Encontros de Mestrado*
 
-2o Encontro
+### *II Encontro (13/03/2026)*
 
 1. Etimologia: "sistema" no grego = "aquilo que se mantém junto"; em chinês hai tong = "reunião de fios"
 
@@ -147,7 +146,7 @@ A mágica sistêmica ocorre quando, ao estudar o sistema para desenvolvimento do
 
 30. Escrita como revisitação e treino de articulação — pré-requisito de mestria
 
-3o Encontro (17/04/2026) - ver sumario-encontro3.json
+### *III Encontro (17/04/2026)*
 
 31. Kung Fu (subjetivo) vs Sistema (objetivo) — Si Fu: sistema é aspecto objetivo, quase material (S5)
 
@@ -158,4 +157,3 @@ A mágica sistêmica ocorre quando, ao estudar o sistema para desenvolvimento do
 34. Sem sistema, Kung Fu para de evoluir — armadilha do autoaprisionamento (S12)
 
 35. Livro "Fundamentos do Kung Fu, vol.1 Marcialidade" — referenciado diretamente por Si Fu
-*/}

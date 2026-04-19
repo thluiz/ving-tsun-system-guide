@@ -21,6 +21,18 @@ export default defineConfig({
 							}
 						});
 
+						document.addEventListener('DOMContentLoaded', () => {
+							const btn = document.querySelector('[data-open-modal]');
+							if (!btn) return;
+							const oldKbd = btn.querySelector('kbd');
+							if (oldKbd) {
+								oldKbd.textContent = '/';
+								oldKbd.className = 'vt-slash ' + oldKbd.className;
+								oldKbd.style.display = '';
+								oldKbd.innerHTML = '<kbd>/</kbd>';
+							}
+						});
+
 						(function() {
 							const SIZES = [1.125, 1.25, 1.375, 1.5, 1.625];
 							const DEFAULT = 2;
