@@ -83,18 +83,30 @@ Não é coincidência que o sistema Ving Tsun leve o nome de uma mulher. Yim Vin
 {/*
 ### Pontos dos Encontros do Programa de Mestrado a serem (re)considerados:
 
---- 1o Encontro (11/03/2026) ---
+1o Encontro (11/03/2026)
+
 1. Pessoa (人) vs Humano (仁) — desenvolvimento pessoal vs desenvolvimento humano através do outro
+
 2. Alteroconhecimento — conhecimento adquirido a partir do outro
+
 3. Kung Fu como prudência — executar da melhor forma com menor gasto de energia
+
 4. Dilema dedicação vs eficiência — quem tem mais Kung Fu?
+
 5. Atenção e tensão — attendere, a corda do instrumento, medida
+
 6. Desenvolvimento como retirada de camadas — des-envolvimento
+
 7. Excelência como movimento, não estado — língua chinesa e o foco no movimento
+
 8. Desfrute e hedonismo — extrair prazer do que se tem, Wu Wei
+
 9. Universalidade do Kung Fu — preservar o simbólico, evitar chinesismos
+
 10. Kung Fu como conceito + processo + resultante
+
 11. Maturidade como alvo móvel — nunca "pronto", atualização constante
+
 12. Sistema como membrana de preservação → ponte para cap 2
 
 3o Encontro (17/04/2026) - ver sumario-encontro3.json

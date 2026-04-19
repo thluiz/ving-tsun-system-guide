@@ -85,43 +85,77 @@ A mágica sistêmica ocorre quando, ao estudar o sistema para desenvolvimento do
 {/*
 ### Pontos dos Encontros do Programa de Mestrado a serem (re)considerados:
 
---- 2o Encontro ---
+2o Encontro
 
 1. Etimologia: "sistema" no grego = "aquilo que se mantém junto"; em chinês hai tong = "reunião de fios"
+
 2. Sistema como input-processamento-output vs sistema chinês como lista/receita (ordem altera o produto)
+
 3. Os 6 domínios e as duas trilogias (SNT/CK/BJ + MFJ/LDBG/BJD)
+
 4. Fases estruturada → semi-estruturada → não-estruturada como continuum, não estados discretos
+
 5. Ensinar vs transmitir vs aprender — Si Fu transmite sistema, ensina cultura, To Dai aprende
+
 6. Sistema é artificial (positivo) — nenhum gesto do VT é natural, tudo foi desenhado
+
 7. Natureza não se prescreve, emerge — não dizer "a natureza do SND é X", deixar brotar
+
 8. "O sistema é mudo" — qualquer interpretação é do praticante, não do sistema
+
 9. Sistema como partitura / maestro — partitura fixa, artista na interpretação
+
 10. Começar dentro do sistema, eventualmente descolar — permissão pessoal
+
 11. Integridade: 6 elementos, nem mais nem menos — adicionar ou remover muda a identidade
+
 12. Sistema aberto vs fechado — núcleo fechado (6 domínios), interpretação aberta
+
 13. 5 gerações genealógicas = um período — arte "antiga" só a partir da 6ª geração
+
 14. Sistema pode ser anterior a Yim Ving Tsun — complexidade improvável para uma pessoa
+
 15. A fundação é "atribuída", não declarada — Leung Bok To nomeou
+
 16. 10ª geração como última conexão necessária com a China — universalização
+
 17. Interdependência, não independência — entrar num sistema já o afeta
+
 18. Fita de Moebius — sistema que retorna a si, dentro vira fora
+
 19. Elementos não-lineares e retroativos — Biu Ji muda como você vê o Siu Nim Tao
+
 20. Transmissor emite puro, não controla recepção — alho/bugalho
+
 21. Sistema vs estilo vs método — Kuen/Kuen-Fa = sistema, Kuen-Sung = estilo
+
 22. Influências confucionista (transmissão/ordem), taoista (movimento/yin-yang), budista (não-dano)
+
 23. Sistema de Kung Fu como lista onde ordem importa
+
 24. San Fat vs Vida Kung Fu — interpretação de Si Taai Gung para não-chineses
+
 25. "Momento programado" — Jullien, moment opportun, paradoxo de agendar o espontâneo
+
 26. Marcialidade como produto primário, desenvolvimento humano como subproduto
+
 27. Chi Sau como alma do sistema — método indireto, desenvolve atributos
+
 28. Mito vs rito — narrativas dão permanência a práticas, não são reivindicações históricas
+
 29. Pré-requisitos amplos = sistema mais eficaz — minimizar barreiras de entrada
+
 30. Escrita como revisitação e treino de articulação — pré-requisito de mestria
 
---- 3o Encontro (17/04/2026) --- ver sumario-encontro3.json
+3o Encontro (17/04/2026) - ver sumario-encontro3.json
+
 31. Kung Fu (subjetivo) vs Sistema (objetivo) — Si Fu: sistema é aspecto objetivo, quase material (S5)
+
 32. Marcialidade ≠ luta — sistema exige técnicas de combate, mas marcialidade = combate interno (S16/D5)
+
 33. "O sistema é mudo" / "definir é limitar" — praticante interpreta, sistema não prescreve (S11)
+
 34. Sem sistema, Kung Fu para de evoluir — armadilha do autoaprisionamento (S12)
+
 35. Livro "Fundamentos do Kung Fu, vol.1 Marcialidade" — referenciado diretamente por Si Fu
 */}
