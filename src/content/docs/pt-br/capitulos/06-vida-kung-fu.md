@@ -1,5 +1,7 @@
 ---
 title: "Capítulo 6: Vida-Kung Fu — Sam Faat"
+sidebar:
+  label: "Cap. 6: Vida-Kung Fu"
 description: "O processo Vida-Kung Fu e a transmissão mente-a-mente (Sam Faat 心法)."
 ---
 

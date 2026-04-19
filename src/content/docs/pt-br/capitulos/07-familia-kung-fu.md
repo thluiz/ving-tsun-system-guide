@@ -1,5 +1,7 @@
 ---
 title: "Capítulo 7: Família Kung Fu e Genealogia — Relações como Sistema"
+sidebar:
+  label: "Cap. 7: Família Kung Fu e Genealogia"
 description: "O sistema de relações humanas como componente inseparável do sistema técnico."
 ---
 

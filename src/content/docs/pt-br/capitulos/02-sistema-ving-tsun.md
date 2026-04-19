@@ -1,5 +1,7 @@
 ---
 title: "Capítulo 2: O Sistema Ving Tsun"
+sidebar:
+  label: "Cap. 2: O Sistema Ving Tsun"
 description: "O Sistema VT em profundidade — os 6 domínios, a sugestão trilógica, variação como princípio organizador, genealogia e denominação."
 ---
 

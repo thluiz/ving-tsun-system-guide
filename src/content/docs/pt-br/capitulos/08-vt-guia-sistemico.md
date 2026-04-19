@@ -1,5 +1,7 @@
 ---
 title: "Capítulo 8: Ving Tsun como Guia para o Pensamento Sistêmico"
+sidebar:
+  label: "Cap. 8: VT como Guia Sistêmico"
 description: "Tese central reunida — o Sistema VT como guia prático para desenvolver pensamento sistêmico. Síntese e conclusão."
 ---
 

@@ -1,5 +1,7 @@
 ---
 title: "Chapter 3: The Art of Listing"
+sidebar:
+  label: "Ch. 3: The Art of Listing"
 description: "The list as a Chinese cognitive technology — and how the Ving Tsun System employs it as an instrument of variation."
 ---
 

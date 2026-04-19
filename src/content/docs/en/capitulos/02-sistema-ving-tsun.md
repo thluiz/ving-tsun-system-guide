@@ -1,5 +1,7 @@
 ---
 title: "Chapter 2: The Ving Tsun System"
+sidebar:
+  label: "Ch. 2: The Ving Tsun System"
 description: "The VT System in depth — the 6 domains, the trilogical suggestion, variation as organizing principle, genealogy and denomination."
 ---
 

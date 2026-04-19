@@ -1,5 +1,7 @@
 ---
 title: "Capítulo 5: O VT como Educador Sistêmico"
+sidebar:
+  label: "Cap. 5: O VT como Educador Sistêmico"
 description: "Como a prática do Sistema VT desenvolve pensamento sistêmico organicamente — o capítulo-ponte central do livro."
 ---
 

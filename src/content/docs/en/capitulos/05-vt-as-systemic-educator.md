@@ -1,5 +1,7 @@
 ---
 title: "Chapter 5: VT as Systemic Educator"
+sidebar:
+  label: "Ch. 5: VT as Systemic Educator"
 description: "How practicing the VT System organically develops systems thinking — the book's central bridge chapter."
 ---
 

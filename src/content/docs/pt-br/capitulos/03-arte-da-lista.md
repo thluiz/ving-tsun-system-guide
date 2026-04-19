@@ -1,5 +1,7 @@
 ---
 title: "Capítulo 3: A Arte da Lista"
+sidebar:
+  label: "Cap. 3: A Arte da Lista"
 description: "A lista como tecnologia cognitiva chinesa — e como o Sistema Ving Tsun a emprega como instrumento de variação."
 ---
 

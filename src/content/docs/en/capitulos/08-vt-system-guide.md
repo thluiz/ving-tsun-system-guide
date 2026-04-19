@@ -1,5 +1,7 @@
 ---
 title: "Chapter 8: Ving Tsun as a Guide to Systems Thinking"
+sidebar:
+  label: "Ch. 8: VT as System Guide"
 description: "Central thesis assembled — the VT System as a practical guide for developing systems thinking. Synthesis and conclusion."
 ---
 
