@@ -21,7 +21,8 @@ pnpm-debug.log*
 .DS_Store
 
 # claude code settings
-.claude/
+.claude/*
+!.claude/context/
 
 # material de apoio / fontes de pesquisa
 fontes/
