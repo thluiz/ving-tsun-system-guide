@@ -10,7 +10,6 @@ Histórico das mudanças focadas no **texto** do livro: capítulos, glossário, 
 
 - **2026-05-10** `[PT]` Cap 01 — abertura ampliada com 4 fontes acadêmicas: Qi Jiguang / *Jixiao Xinshu* (catalogação marcial Ming), Amiot / *Notice du Cong-Fou* (primeiro registro ocidental, 1779), Kennedy & Guo sobre a Chin Wu Academy (1909), Teo sobre a cisão wuxia/kung fu no cinema. Observação sobre a inversão histórica do Tai Chi Chuan / Tai Ji Kuen (太極拳).
 - **2026-05-10** `[PT]` Glossário expandido: genealogia kung fu completa do autor a Yim Ving Tsun (Moy Chi Yau Si ⊂ Moy Jo Lei Ou ⊂ … ⊂ Ving Tsun), com referências mestre/discípulo de cada geração. Bibliografia inicial com Amiot, Kennedy & Guo, Qi Jiguang, Teo.
-- **2026-05-10** `[PT]` Distinção terminológica: Linhagem Moy Yat de Ving Tsun Kung Fu (tradição genealógica) vs Moy Yat Ving Tsun (obra/escola assinada por Si Taai Gung).
 - **2026-05-10** `[PT]` Glossário publicado. Seção *Fontes e Referências* do prefácio ampliada (Granet, Anne Cheng, Bertalanffy, Donella Meadows et al).
 - **2026-05-09** `[PT]` Refinamentos: glossário, transliteração e referências.
 
