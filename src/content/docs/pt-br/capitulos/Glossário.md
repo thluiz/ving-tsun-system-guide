@@ -47,7 +47,7 @@ description: "Termos chineses e pessoas citadas no livro — transliteração da
 - **Leibniz, Gottfried Wilhelm:** filósofo alemão, *Monadologia*
 - **Leung Bok Toa:** esposo de Yim Ving Tsun, transmitiu o sistema na geração seguinte
 - **Mordente, Leonardo:** referência da família em transliteração de termos chineses, Si Suk 師叔 do autor.
-- **Moy Yat:** Grão-Mestre, fundador da linhagem Moy Yat Ving Tsun, Si Taai Gung 師太公 do autor.
+- **Moy Yat:** Grão-Mestre, fundador da linhagem Moy Yat de Ving Tsun Kung Fu, Si Taai Gung 師太公 do autor.
 - **Ng Mui:** monja budista, transmitiu o sistema a Yim Ving Tsun
 - **Ni, Peimin:** filósofo sino-americano, Kung Fu epistemology
 - **Si Fu (師父):** *(Escreverei sobre a ótica familiar)*

@@ -22,5 +22,5 @@ Os arquivos abaixo são contexto persistente do projeto. Carregar quando o gatil
 ## Convenções de comunicação
 
 - PT-BR sempre. Nunca PT-EU.
-- "Família Moy Jo Lei Ou" (grupo imediato) ≠ "Linhagem Moy Yat Ving Tsun" (tradição). Nunca "clã Moy Yat".
+- "Família Moy Jo Lei Ou" (grupo imediato) ≠ "Linhagem Moy Yat de Ving Tsun Kung Fu" (tradição). Nunca "clã Moy Yat".
 - Termos VT com espaço: Si Fu, To Dai, Si Hing, Si Gung, Si Taai Gung, Ving Tsun (não Wing Chun).

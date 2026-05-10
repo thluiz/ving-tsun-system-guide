@@ -10,7 +10,7 @@
 
 Livro/site sobre como o treinamento de Ving Tsun 詠春 desenvolve naturalmente o pensamento sistêmico.
 
-Autor: **Thiago Silva (Moy Chi Yau Si 梅 知 友 士)**, Mestre de Ving Tsun da família Moy Jo Lei Ou (clã Moy Yat Sang, linhagem Moy Yat Ving Tsun). Discípulo do Mestre Senior Julio Camacho.
+Autor: **Thiago Silva (Moy Chi Yau Si 梅 知 友 士)**, Mestre de Ving Tsun da família Moy Jo Lei Ou (clã Moy Yat Sang, linhagem Moy Yat de Ving Tsun Kung Fu). Discípulo do Mestre Senior Julio Camacho.
 
 **Idioma de escrita:** PT-BR. A versão EN é tradução pendente — capítulos em `src/content/docs/en/capitulos/` ainda são esqueletos.
 
@@ -37,7 +37,7 @@ Histórico de conteúdo: [`CONTENT-CHANGELOG.md`](CONTENT-CHANGELOG.md).
 
 A book/site on how Ving Tsun 詠春 training naturally develops systems thinking.
 
-Author: **Thiago Silva (Moy Chi Yau Si 梅 知 友 士)**, Ving Tsun Master from the Moy Jo Lei Ou family (Moy Yat Sang clan, Moy Yat Ving Tsun lineage). Disciple of Senior Master Julio Camacho.
+Author: **Thiago Silva (Moy Chi Yau Si 梅 知 友 士)**, Ving Tsun Master from the Moy Jo Lei Ou family (Moy Yat Sang clan, Moy Yat lineage of Ving Tsun Kung Fu). Disciple of Senior Master Julio Camacho.
 
 **Writing language:** PT-BR. The EN version is a pending translation — chapter files in `src/content/docs/en/capitulos/` are still stubs.
 
