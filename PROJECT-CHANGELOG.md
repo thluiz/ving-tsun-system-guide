@@ -21,6 +21,8 @@ Histórico de decisões de **estrutura editorial, convenções, ferramental e in
 - README bilíngue (PT/EN) na raiz, documentando autor, projeto, idioma de escrita ativa, pendências de tradução. [`b7d614a`]
 - `CONTENT-CHANGELOG.md` criado para registrar mudanças de conteúdo do livro (separado deste). [`b7d614a`]
 - `.claude/context/transliteracao.md` consolidado com convenções de transliteração da família, footnotes/Bibliografia, ideogramas em parênteses, sonorização inline. [vários commits]
+- Rebalanceamento das metas de páginas dos capítulos: total **192 → 131 páginas**. Objetivo do livro é passar dos 108 sem inflar. Glossário com meta = páginas atuais (cresce livremente, não conta como ambição). Asides "Meta" sincronizados em caps 02–08. [`a3e5ae0`, `857f810`]
+- `TODO.md` reorientado como backlog de longo prazo (capítulo-a-capítulo); operacional do dia-a-dia migra para `.claude/STATE.md`. Status table ganhou totais e linha do Glossário. [`050705d`, `9c76a59`, `dc65968`]
 
 ## 2026-04 · Setup visual e UX
 
