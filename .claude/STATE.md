@@ -4,7 +4,12 @@
 >
 > **Última atualização:** 2026-05-10
 
-## Capítulo em edição
+## Próxima sessão — prioridades
+
+1. **Fontes e Referências do prefácio (`00-prefacio.mdx`)**: a seção tem lista aberta com Jullien, Peimin Ni (escrita PemMiNi, normalizar para "Peimin Ni"), Marcel Granet, Anne Cheng, Bertalanffy, Xing Pan, Ricardo Valerdi, Rui Kang, Donella Meadows. Cada um pede footnote com obra principal + ano. Possível também: nota Scholion biográfica para os sinólogos centrais (Granet, Cheng).
+2. **Cap 01 — seção `## O que quer dizer Kung Fu (功夫)?`**: revisão de referências. Etimologia (Duan Yucai) precisa fonte verificada (provavelmente *Shuowen Jiezi Zhu*). A análise dos componentes 工/力/夫/大 pode pedir attribution acadêmica.
+
+## Capítulo último editado
 
 `src/content/docs/pt-br/capitulos/01-kung-fu.mdx`
 
@@ -17,13 +22,12 @@ Bloco de abertura do cap 01 (antes do header `## O que quer dizer Kung Fu (功�
 - Convenção de ideogramas em parênteses aplicada
 - Ghost-writer estrutural aprovado
 
-## Próximos candidatos
+## Outros candidatos (depois das prioridades acima)
 
-- Cap 01 seções subsequentes ainda não revisitadas:
-  - "## O que quer dizer Kung Fu" — etimologia 功夫 (já revisada anteriormente)
-  - "## O que os sinólogos explicam" — Peimin Ni e Jullien (verificar se afirmações precisam de footnote)
-  - "## Marcialidade" — pode ganhar footnotes
-  - "## Feminilização da Guerra" — Albert Galvany e Sun Tzu carecem de fonte explícita; nota Yun Nui ainda em aberto
+- Cap 01 seções restantes:
+  - `## O que os sinólogos explicam` — Peimin Ni e Jullien (verificar attributions)
+  - `## Marcialidade` — pode ganhar footnotes
+  - `## Feminilização da Guerra` — Albert Galvany e Sun Tzu carecem de fonte explícita; nota Yun Nui em aberto
 - Cap 02 "Sistema Ving Tsun" — atualmente ~40%, precisa avançar
 - Caps 03–09 — esqueletos
 
@@ -32,6 +36,7 @@ Bloco de abertura do cap 01 (antes do header `## O que quer dizer Kung Fu (功�
 - **Yun Nui (深女)**: ideogramas no cap 01 podem estar errados (provavelmente 玄女, jyut. `jyun4 neoi5`). Revisar com fonte da família.
 - **Cap 01 seção "Feminilização da Guerra"**: Galvany, Wong Tai, Sun Tzu carecem de footnote acadêmica.
 - **Cap 02 linha 47**: revisitar a explicação de Ving Tsun Kuen To 套 (forma) já corrigida; confirmar com Si Fu.
+- **`PemMiNi`** no prefácio: typo, normalizar para `Peimin Ni` (sinólogo já cita no cap 01).
 
 ## Skills relevantes
 
@@ -41,7 +46,7 @@ Bloco de abertura do cap 01 (antes do header `## O que quer dizer Kung Fu (功�
 
 ## Last commit / push
 
-- Ving Tsun: `b37c57b` — Migra capítulos para .mdx; Asides; footnotes; ideogramas em parens
+- Ving Tsun: `14800cb` — Skill pesquisar-fonte-cap, STATE.md, polish parágrafo Bruce Lee no cap 01
 - Scholion: `935a6de` — 3 notas (Qi Jiguang, Amiot, Wuxia vs Kung Fu) + Chin Woo update
 
 ## Bibliografia até o momento
