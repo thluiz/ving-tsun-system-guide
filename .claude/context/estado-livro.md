@@ -4,20 +4,22 @@
 
 Livro/site "Ving Tsun: A System Guide". Tese: o treinamento de Ving Tsun desenvolve naturalmente pensamento sistêmico. Site Astro/Starlight bilíngue (PT-BR/EN) em `vingtsun.thluiz.com`, deploy S3+CloudFront.
 
-## Estado dos capítulos (snapshot 2026-04-18)
+## Estado dos capítulos (snapshot 2026-05-10)
 
-| Cap | Título | Estado | Observações |
-|-----|--------|--------|-------------|
-| 00 | Prefácio | ~90% | Falta: fechar fontes/referências (autores listados sem obras+anos), direções de leitura concretas |
-| 01 | Kung Fu | ~65% | ~2100 palavras. Abertura fechada com 4 fontes acadêmicas. Falta: revisão refs nas seções restantes, Yun Nui (provavelmente 玄女), Duan Yucai/Shuowen Jiezi Zhu, citação Moy Yat sobre artes Mou |
-| 02 | Sistema Ving Tsun | ~40% | Framework Leibniz/Descartes/Bertalanffy. Muito esqueleto TODO. Falta: 6 domínios, etimologia, genealogia, denominação |
-| 03 | Arte da Lista | Esqueleto | — |
-| 04 | Pensamento Sistêmico | Esqueleto | — |
-| 05 | VT como Educador Sistêmico | Esqueleto | — |
-| 06 | Vida Kung Fu / Sam Faat | Esqueleto | — |
-| 07 | Família Kung Fu | Esqueleto | — |
-| 08 | VT Guia Sistêmico | Esqueleto | — |
-| 09 | Conclusão | Esqueleto | — |
+| Cap | Título | Palavras | Estado | Observações |
+|-----|--------|---------:|--------|-------------|
+| 00 | Prefácio | 891 | ~90% | Falta: fechar fontes/referências (autores listados sem obras+anos), direções de leitura concretas |
+| 01 | Kung Fu | 2 102 | ~65% | Abertura fechada com 4 fontes acadêmicas. Falta: revisão refs nas seções restantes, Yun Nui (provavelmente 玄女), citação Moy Yat sobre artes Mou |
+| 02 | Sistema Ving Tsun | 1 674 | ~40% | Framework Leibniz/Descartes/Bertalanffy. Muito esqueleto TODO. Falta: 6 domínios, etimologia, genealogia, denominação |
+| 03 | Arte da Lista | 132 | Esqueleto | — |
+| 04 | Pensamento Sistêmico | 139 | Esqueleto | — |
+| 05 | VT como Educador Sistêmico | 152 | Esqueleto | — |
+| 06 | Vida Kung Fu / Sam Faat | 167 | Esqueleto | — |
+| 07 | Família Kung Fu | 161 | Esqueleto | — |
+| 08 | VT Guia Sistêmico | 159 | Esqueleto | — |
+| 09 | Conclusão | 97 | Esqueleto | — |
+| — | Glossário | 1 441 | Em construção | Termos VT, pessoas (com ideogramas), bibliografia |
+| **Total** |  | **7 115** | | ~28 páginas (a 250 palavras/página) |
 
 > Verificar contra os arquivos atuais antes de tomar decisões — este snapshot pode estar defasado.
 

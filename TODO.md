@@ -10,18 +10,18 @@ Atualizado: 2026-05-10.
 
 | Capítulo | Status | ~Palavras | ~Páginas | Meta (~páginas) |
 |----------|--------|-----------|----------|-----------------|
-| 00 - Prefácio | 90% | 326 | 1,3 | 4 |
-| 01 - Kung Fu | 65% | 2100 | 8,4 | 16 |
-| 02 - Sistema Ving Tsun | 40% | 1580 | 6,3 | 22 |
-| 03 - A Arte da Lista | Planejado | 0 | 0 | 12 |
-| 04 - Pensamento Sistêmico | Planejado | 0 | 0 | 14 |
-| 05 - VT como Educador Sistêmico | Planejado | 0 | 0 | 16 |
-| 06 - Vida Kung Fu / Sam Faat | Planejado | 0 | 0 | 12 |
-| 07 - Família Kung Fu | Planejado | 0 | 0 | 12 |
-| 08 - VT Guia Sistêmico | Planejado | 0 | 0 | 16 |
-| 09 - Conclusão | Planejado | 0 | 0 | 4 |
-| Glossário | Em construção | 744 | 3,0 | 3 (atual, cresce) |
-| **Total** | — | **4750** | **19,0** | **~131** |
+| 00 - Prefácio | 90% | 891 | 3,6 | 4 |
+| 01 - Kung Fu | 65% | 2 102 | 8,4 | 16 |
+| 02 - Sistema Ving Tsun | 40% | 1 674 | 6,7 | 22 |
+| 03 - A Arte da Lista | Planejado | 132 | 0,5 | 12 |
+| 04 - Pensamento Sistêmico | Planejado | 139 | 0,6 | 14 |
+| 05 - VT como Educador Sistêmico | Planejado | 152 | 0,6 | 16 |
+| 06 - Vida Kung Fu / Sam Faat | Planejado | 167 | 0,7 | 12 |
+| 07 - Família Kung Fu | Planejado | 161 | 0,6 | 12 |
+| 08 - VT Guia Sistêmico | Planejado | 159 | 0,6 | 16 |
+| 09 - Conclusão | Planejado | 97 | 0,4 | 4 |
+| Glossário | Em construção | 1 441 | 5,8 | 3 (atual, cresce) |
+| **Total** | — | **7 115** | **28,5** | **~131** |
 
 ---
 
@@ -48,8 +48,7 @@ Suficiente para escrever sem pesquisa adicional.
 ### Escrito
 - Mou Seut vs Kung Fu (o mal-entendido) — com fontes acadêmicas: Qi Jiguang/Jixiao Xinshu, Amiot, Kennedy & Guo (Chin Wu), Teo (wuxia/kung fu)
 - Tai Chi Chuan / Tai Ji Kuen como inversão histórica (cultiva-se aspecto médico, esquece-se marcial)
-- Etimologia dos ideogramas 功夫 (Kung, Fu, com componentes 工, 力, 大)
-- Tian (天) e a maturidade na presilha que passa da cabeça (Duan Yucai)
+- Etimologia dos ideogramas 功夫 (Kung, Fu, com componentes 工, 力, 大) — entrada Glossário com Duan Yucai/Shuowen Jiezi Zhu atestada
 - O que NÃO está nos ideogramas
 - Inversão: artes marciais contêm Kung Fu, não o contrário
 - Peimin Ni: cardápio vs comida, neo-confucianos Song
@@ -63,8 +62,6 @@ Suficiente para escrever sem pesquisa adicional.
 ### Pendente — este capítulo
 
 - [ ] **Yun Nui (深女)**: ideogramas no cap 01 podem estar errados (provavelmente 玄女, jyut. `jyun4 neoi5`). Verificar com fonte da família.
-
-- [ ] **Etimologia em "O que quer dizer Kung Fu"** — Duan Yucai destacando a presilha/Tian (天) precisa fonte verificada (provavelmente *Shuowen Jiezi Zhu* 說文解字注). Análise dos componentes 工/力/夫/大 pode pedir attribution acadêmica.
 
 - [ ] **Footnotes pendentes nas seções "O que os sinólogos explicam" / "Marcialidade" / "Feminilização da Guerra"** — Peimin Ni, Jullien, Galvany, Sun Tzu carecem de attribution explícita.
 
