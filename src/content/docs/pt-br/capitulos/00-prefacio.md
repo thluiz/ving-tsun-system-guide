@@ -32,4 +32,6 @@ A principal fonte desse livro é a minha relação com meu mestre e os caminhos 
 
 Si Taai Gung comentava que tentar provar pontos fisicamente ou a partir de teorias é fadado ao fracasso. A orientação geral era de falar a partir das experiências pessoais, sempre é possível relatar o que se viveu com seu mestre, os relatos pessoais são a melhor fonte primária em um processo genealógico. 
 
-Dito isso, me apoio nos trabalhos de alguns sinologos importantes que transitam na família como François Jullien (sistemas chineses e uso de listas), PemMiNi, Marcel Granet e Anne Cheng (os 3 sobre pensamento chinês e Kung Fu)
+Dito isso, me apoio nos trabalhos de alguns sinólogos importantes que transitam nas conversas da família como François Jullien (sistemas chineses e uso de listas), PemMiNi, Marcel Granet e Anne Cheng (os 3 sobre pensamento chinês e Kung Fu).
+
+Para sistemas me apoio... Bertalanffy, Xing Pana, Ricardo Valerdib, Rui Kanga e por fim no pragmatismo de Donella Meadows para colocar tudo em prática... 

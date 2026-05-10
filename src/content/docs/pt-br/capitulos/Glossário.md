@@ -1,4 +1,9 @@
-
+---
+title: "Glossário"
+sidebar:
+  label: "Glossário"
+description: "Termos chineses e pessoas citadas no livro — transliteração da família, pinyin, jyutping e ideogramas."
+---
 
 # Glossário
 
