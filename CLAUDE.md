@@ -2,6 +2,10 @@
 
 Livro/site bilíngue (PT-BR/EN) Astro+Starlight. Tese: o treinamento de Ving Tsun desenvolve naturalmente pensamento sistêmico. Autor: Thiago Silva (Moy Chi Yau Si).
 
+## Retomar sessão
+
+**Primeiro arquivo a ler:** `.claude/STATE.md` — capítulo em edição, último ponto de parada, pendências, candidatos para próximas sessões. Atualizar ao fim de cada sessão produtiva.
+
 ## Voz
 
 Qualquer redação que vá sair em nome do autor — corpo de capítulos, posts, glosas, recados — invocar a skill `ghost-writer` antes de redigir. A skill carrega o filtro anti-IA, vocabulário banido e os 26 testes de voz.
