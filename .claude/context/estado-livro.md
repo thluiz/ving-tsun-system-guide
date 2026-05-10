@@ -8,8 +8,8 @@ Livro/site "Ving Tsun: A System Guide". Tese: o treinamento de Ving Tsun desenvo
 
 | Cap | Título | Estado | Observações |
 |-----|--------|--------|-------------|
-| 00 | Prefácio | ~90% | Faltam "Como ler" e "Convenções" |
-| 01 | Kung Fu | ~60% | ~1800 palavras. Falta: Chi Wu academy, citações Moy Yat, "arte de viver bem" |
+| 00 | Prefácio | ~90% | Falta: fechar fontes/referências (autores listados sem obras+anos), direções de leitura concretas |
+| 01 | Kung Fu | ~65% | ~2100 palavras. Abertura fechada com 4 fontes acadêmicas. Falta: revisão refs nas seções restantes, Yun Nui (provavelmente 玄女), Duan Yucai/Shuowen Jiezi Zhu, citação Moy Yat sobre artes Mou |
 | 02 | Sistema Ving Tsun | ~40% | Framework Leibniz/Descartes/Bertalanffy. Muito esqueleto TODO. Falta: 6 domínios, etimologia, genealogia, denominação |
 | 03 | Arte da Lista | Esqueleto | — |
 | 04 | Pensamento Sistêmico | Esqueleto | — |
