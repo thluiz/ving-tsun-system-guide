@@ -10,7 +10,7 @@ Ou seja: família ⊂ clã ⊂ linhagem.
 
 ## Genealogia completa
 
-Moy Chi Yau Si ⊂ Moy Jo Lei Ou ⊂ Moy Yat Sang ⊂ Moy Yat ⊂ Ip Man ⊂ Chan Wah Sun ⊂ Leung Jang ⊂ Leng Yi Tai ⊂ Leung Lan Gwai ⊂ Wong Wa Bo ⊂ Leung Bok Toa ⊂ Ving Tsun
+Moy Chi Yau Si ⊂ Moy Jo Lei Ou ⊂ Moy Yat Sang ⊂ Moy Yat ⊂ Ip Man ⊂ Chan Wah Sun ⊂ Leung Jaan ⊂ Leung Yi Tai ⊂ Leung Lan Gwai ⊂ Wong Wa Bo ⊂ Leung Bok Toa ⊂ Ving Tsun
 
 ## Por quê
 
