@@ -1,7 +1,8 @@
 # TODO — Ving Tsun: A System Guide
 
 Pontos em aberto para escrita, pesquisa e discussão com Si Fu.
-Atualizado: 2026-04-18.
+Backlog de longo prazo (capítulo-a-capítulo). Para o estado da sessão atual e próximas prioridades imediatas, ver `.claude/STATE.md`.
+Atualizado: 2026-05-10.
 
 ---
 
@@ -10,7 +11,7 @@ Atualizado: 2026-04-18.
 | Capítulo | Status | ~Palavras | ~Páginas | Meta (~páginas) |
 |----------|--------|-----------|----------|-----------------|
 | 00 - Prefácio | 90% | 326 | 1,3 | 3-4 |
-| 01 - Kung Fu | 60% | 1800 | 7,2 | 22 |
+| 01 - Kung Fu | 65% | 2100 | 8,4 | 22 |
 | 02 - Sistema Ving Tsun | 40% | 1580 | 6,3 | 32 |
 | 03 - A Arte da Lista | Planejado | 0 | 0 | 20 |
 | 04 - Pensamento Sistêmico | Planejado | 0 | 0 | 22 |
@@ -24,9 +25,16 @@ Atualizado: 2026-04-18.
 
 ## Capítulo 00 — Prefácio
 
+### Escrito
+- Tese central + percurso autobiográfico (2014, sistema VT, "Analista de Sistemas")
+- Como ler este livro (Caderno do Aurélio Andrade como inspiração metodológica; direções de leitura como TODO)
+- Transliterações (Guangdong, Si Suk Mordente, pinyin/jyutping ao final)
+- Fontes e Referências (lista aberta — pendente fechar com obras + anos)
+
 ### Pendente
-- [ ] **Como ler este livro** — capítulos independentes mas com arco
-- [ ] **Convenções** — termos em cantonês, referências às fontes
+- [ ] **Direções de leitura concretas** (paths por audiência) — atualmente em `<Aside type="caution" title="TODO">`. Revisar conforme caps 3–9 avançarem.
+- [ ] **Fontes e Referências — fechar com obras + anos**: Jullien, Peimin Ni (corrigir typo "PemMiNi"), Marcel Granet, Anne Cheng, Bertalanffy, Xing Pan, Ricardo Valerdi, Rui Kang, Donella Meadows. Cada um pede footnote com obra principal + ano.
+- [ ] **Notas Scholion biográficas** (opcional) para os sinólogos centrais (Granet, Cheng) e sistemistas (Meadows, Bertalanffy).
 
 ### Fontes disponíveis
 Suficiente para escrever sem pesquisa adicional.
@@ -36,8 +44,10 @@ Suficiente para escrever sem pesquisa adicional.
 ## Capítulo 01 — Kung Fu
 
 ### Escrito
-- Mou Seut vs Kung Fu (o mal-entendido)
-- Etimologia dos ideogramas 功夫
+- Mou Seut vs Kung Fu (o mal-entendido) — com fontes acadêmicas: Qi Jiguang/Jixiao Xinshu, Amiot, Kennedy & Guo (Chin Wu), Teo (wuxia/kung fu)
+- Tai Chi Chuan / Tai Ji Kuen como inversão histórica (cultiva-se aspecto médico, esquece-se marcial)
+- Etimologia dos ideogramas 功夫 (Kung, Fu, com componentes 工, 力, 大)
+- Tian (天) e a maturidade na presilha que passa da cabeça (Duan Yucai)
 - O que NÃO está nos ideogramas
 - Inversão: artes marciais contêm Kung Fu, não o contrário
 - Peimin Ni: cardápio vs comida, neo-confucianos Song
@@ -50,7 +60,11 @@ Suficiente para escrever sem pesquisa adicional.
 
 ### Pendente — este capítulo
 
-- [ ] **Ideogramas de Chi Wu** — academia que salientou a associação de Kung Fu às artes marciais (final séc XIX / início séc XX). Procurar ideogramas e contexto histórico.
+- [ ] **Yun Nui (深女)**: ideogramas no cap 01 podem estar errados (provavelmente 玄女, jyut. `jyun4 neoi5`). Verificar com fonte da família.
+
+- [ ] **Etimologia em "O que quer dizer Kung Fu"** — Duan Yucai destacando a presilha/Tian (天) precisa fonte verificada (provavelmente *Shuowen Jiezi Zhu* 說文解字注). Análise dos componentes 工/力/夫/大 pode pedir attribution acadêmica.
+
+- [ ] **Footnotes pendentes nas seções "O que os sinólogos explicam" / "Marcialidade" / "Feminilização da Guerra"** — Peimin Ni, Jullien, Galvany, Sun Tzu carecem de attribution explícita.
 
 - [ ] **Citação Moy Yat sobre artes Mou / atividades femininas** — procurar no livro *The Legends of Kung Fu Master* a citação sobre artistas marciais deverem exercer atividades mais leves (caligrafia, pintura). Verificar termo correto (artes Mou?).
 
