@@ -23,6 +23,8 @@ pnpm-debug.log*
 # claude code settings
 .claude/*
 !.claude/context/
+!.claude/skills/
+!.claude/STATE.md
 
 # material de apoio / fontes de pesquisa
 fontes/
