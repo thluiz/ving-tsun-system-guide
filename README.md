@@ -19,7 +19,7 @@ Autor: **Thiago Silva (Moy Chi Yau Si 梅 知 友 士)**, Mestre de Ving Tsun da
 | Cap | Título | Estado |
 |-----|--------|--------|
 | 00 | Prefácio | ~90% |
-| 01 | Kung Fu | ~60% |
+| 01 | Kung Fu | ~65% |
 | 02 | Sistema Ving Tsun | ~40% |
 | 03 | Arte da Lista | esqueleto |
 | 04 | Pensamento Sistêmico | esqueleto |
