@@ -6,8 +6,13 @@ Histórico das mudanças focadas no **texto** do livro. Mudanças de UX, build, 
 
 ---
 
-## 2026-05 · Glossário, transliteração e referências
+## 2026-05 · Glossário, transliteração, referências e infra editorial
 
+- **2026-05-10** `[PT]` Skill `pesquisar-fonte-cap` versionada no projeto, `STATE.md` para retomada entre sessões. [`14800cb`]
+- **2026-05-10** `[PT]` Migração de capítulos para `.mdx` com `<Aside>` para scaffolding (TODOs, encontros). Footnotes acadêmicas no cap 01: Jixiao Xinshu (Qi Jiguang), Notice du Cong-Fou (Amiot), Jingwu (Kennedy & Guo), Wuxia/Kung Fu (Teo). Convenção de ideogramas sempre em parênteses. [`b37c57b`]
+- **2026-05-10** `[PT]` Distinção terminológica: Linhagem Moy Yat de Ving Tsun Kung Fu (tradição) vs Moy Yat Ving Tsun (obra/escola de Si Taai Gung). [`1689c82`]
+- **2026-05-10** `[PT]` Genealogia kung fu completa documentada do autor a Yim Ving Tsun (Moy Chi Yau Si ⊂ … ⊂ Ving Tsun). [`eba60b0`]
+- **2026-05-10** `[PT/EN]` README bilíngue. CONTENT-CHANGELOG.md inicial. [`b7d614a`]
 - **2026-05-10** `[PT]` Glossário publicado com frontmatter (build estável). Seção *Fontes e Referências* do prefácio ampliada (Granet, Anne Cheng, Bertalanffy, Donella Meadows et al). [`91e5eb6`]
 - **2026-05-09** `[PT]` Refinamentos: glossário, transliteração e referências. [`0942265`]
 
