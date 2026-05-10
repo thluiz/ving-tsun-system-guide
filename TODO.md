@@ -10,18 +10,18 @@ Atualizado: 2026-05-10.
 
 | Capítulo | Status | ~Palavras | ~Páginas | Meta (~páginas) |
 |----------|--------|-----------|----------|-----------------|
-| 00 - Prefácio | 90% | 326 | 1,3 | 3-4 |
-| 01 - Kung Fu | 65% | 2100 | 8,4 | 22 |
-| 02 - Sistema Ving Tsun | 40% | 1580 | 6,3 | 32 |
-| 03 - A Arte da Lista | Planejado | 0 | 0 | 20 |
-| 04 - Pensamento Sistêmico | Planejado | 0 | 0 | 22 |
-| 05 - VT como Educador Sistêmico | Planejado | 0 | 0 | 24 |
-| 06 - Vida Kung Fu / Sam Faat | Planejado | 0 | 0 | 22 |
-| 07 - Família Kung Fu | Planejado | 0 | 0 | 22 |
-| 08 - VT Guia Sistêmico | Planejado | 0 | 0 | 24 |
-| 09 - Conclusão | Planejado | 0 | 0 | — |
-| Glossário | Em construção | 744 | 3,0 | — |
-| **Total** | — | **4750** | **19,0** | **~192** |
+| 00 - Prefácio | 90% | 326 | 1,3 | 4 |
+| 01 - Kung Fu | 65% | 2100 | 8,4 | 16 |
+| 02 - Sistema Ving Tsun | 40% | 1580 | 6,3 | 22 |
+| 03 - A Arte da Lista | Planejado | 0 | 0 | 12 |
+| 04 - Pensamento Sistêmico | Planejado | 0 | 0 | 14 |
+| 05 - VT como Educador Sistêmico | Planejado | 0 | 0 | 16 |
+| 06 - Vida Kung Fu / Sam Faat | Planejado | 0 | 0 | 12 |
+| 07 - Família Kung Fu | Planejado | 0 | 0 | 12 |
+| 08 - VT Guia Sistêmico | Planejado | 0 | 0 | 16 |
+| 09 - Conclusão | Planejado | 0 | 0 | 4 |
+| Glossário | Em construção | 744 | 3,0 | 3 (atual, cresce) |
+| **Total** | — | **4750** | **19,0** | **~131** |
 
 ---
 
