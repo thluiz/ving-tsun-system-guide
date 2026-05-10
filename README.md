@@ -1,49 +1,75 @@
-# Starlight Starter Kit: Basics
+# Ving Tsun: A System Guide
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
+📖 **Read online / Leia online:** [vingtsun.thluiz.com](https://vingtsun.thluiz.com)
+
+---
+
+## Português
+
+Livro/site sobre como o treinamento de Ving Tsun 詠春 desenvolve naturalmente o pensamento sistêmico.
+
+Autor: **Thiago Silva (Moy Chi Yau Si 梅 知 友 士)**, Mestre de Ving Tsun da família Moy Jo Lei Ou (clã Moy Yat Sang, linhagem Moy Yat Ving Tsun). Discípulo de Si Fu Julio Camacho.
+
+**Idioma de escrita:** PT-BR. A versão EN é tradução pendente — capítulos em `src/content/docs/en/capitulos/` ainda são esqueletos.
+
+**Estado dos capítulos** (snapshot):
+
+| Cap | Título | Estado |
+|-----|--------|--------|
+| 00 | Prefácio | ~90% |
+| 01 | Kung Fu | ~60% |
+| 02 | Sistema Ving Tsun | ~40% |
+| 03 | Arte da Lista | esqueleto |
+| 04 | Pensamento Sistêmico | esqueleto |
+| 05 | VT como Educador Sistêmico | esqueleto |
+| 06 | Vida Kung Fu / Sam Faat | esqueleto |
+| 07 | Família Kung Fu | esqueleto |
+| 08 | VT Guia Sistêmico | esqueleto |
+| 09 | Conclusão | esqueleto |
+
+Histórico de conteúdo: [`CONTENT-CHANGELOG.md`](CONTENT-CHANGELOG.md).
+
+---
+
+## English
+
+A book/site on how Ving Tsun 詠春 training naturally develops systems thinking.
+
+Author: **Thiago Silva (Moy Chi Yau Si 梅 知 友 士)**, Ving Tsun Master from the Moy Jo Lei Ou family (Moy Yat Sang clan, Moy Yat Ving Tsun lineage). Disciple of Si Fu Julio Camacho.
+
+**Writing language:** PT-BR. The EN version is a pending translation — chapter files in `src/content/docs/en/capitulos/` are still stubs.
+
+See [`CONTENT-CHANGELOG.md`](CONTENT-CHANGELOG.md) for the content history.
+
+---
+
+## Estrutura / Structure
+
 ```
-npm create astro@latest -- --template starlight
+src/content/docs/
+├── pt-br/capitulos/      # capítulos em português (versão ativa)
+│   ├── 00-prefacio.md
+│   ├── 01-kung-fu.md
+│   ├── ...
+│   └── Glossário.md      # termos chineses + pessoas
+└── en/capitulos/         # English chapters (translation pending)
+
+.claude/context/          # writing conventions loaded by the Claude agent
+                          # (transliteration, voice, family/lineage…)
+fontes/                   # research sources (gitignored)
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Comandos / Commands
 
-## 🚀 Project Structure
+| Comando / Command | Ação / Action |
+|-------------------|----------------|
+| `npm install`     | Instala dependências / Install dependencies |
+| `npm run dev`     | Dev server em / on `localhost:4321` |
+| `npm run build`   | Build em / to `./dist/` |
+| `npm run preview` | Preview do build / Preview the build |
 
-Inside of your Astro + Starlight project, you'll see the following folders and files:
+## Tech
 
-```
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   └── docs/
-│   └── content.config.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
-```
-
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
-
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
-
-Static assets, like favicons, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+Astro + Starlight. Bilingual via Starlight i18n. Deploy: S3 + CloudFront.
