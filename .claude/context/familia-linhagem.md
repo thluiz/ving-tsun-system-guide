@@ -8,6 +8,10 @@ A genealogia do autor tem três níveis, do mais imediato ao mais amplo:
 
 Ou seja: família ⊂ clã ⊂ linhagem.
 
+## Genealogia completa
+
+Moy Chi Yau Si ⊂ Moy Jo Lei Ou ⊂ Moy Yat Sang ⊂ Moy Yat ⊂ Ip Man ⊂ Chan Wah Sun ⊂ Leung Jang ⊂ Leng Yi Tai ⊂ Leung Lan Gwai ⊂ Wong Wa Bo ⊂ Leung Bok Toa ⊂ Ving Tsun
+
 ## Por quê
 
 São níveis distintos da mesma genealogia. Moy Jo Lei Ou é o nome kung fu do Si Fu (Julio Camacho); Moy Yat Sang é o nome kung fu do Si Taai Gung Moy Yat e dá nome ao clã liderado pelo Si Gung Leo Imamura no Brasil; Moy Yat Ving Tsun é o termo amplo da linhagem.
