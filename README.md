@@ -29,7 +29,7 @@ Autor: **Thiago Silva (Moy Chi Yau Si 梅 知 友 士)**, Mestre de Ving Tsun da
 | 08 | VT Guia Sistêmico | esqueleto |
 | 09 | Conclusão | esqueleto |
 
-Histórico de conteúdo: [`CONTENT-CHANGELOG.md`](CONTENT-CHANGELOG.md).
+Histórico de conteúdo: [`CONTENT-CHANGELOG.md`](CONTENT-CHANGELOG.md). Decisões editoriais e técnicas: [`PROJECT-CHANGELOG.md`](PROJECT-CHANGELOG.md).
 
 ---
 
@@ -41,7 +41,7 @@ Author: **Thiago Silva (Moy Chi Yau Si 梅 知 友 士)**, Ving Tsun Master from
 
 **Writing language:** PT-BR. The EN version is a pending translation — chapter files in `src/content/docs/en/capitulos/` are still stubs.
 
-See [`CONTENT-CHANGELOG.md`](CONTENT-CHANGELOG.md) for the content history.
+See [`CONTENT-CHANGELOG.md`](CONTENT-CHANGELOG.md) for the content history. Editorial and technical decisions live in [`PROJECT-CHANGELOG.md`](PROJECT-CHANGELOG.md).
 
 ---
 

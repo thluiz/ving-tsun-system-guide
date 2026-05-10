@@ -1,6 +1,6 @@
 # Content Changelog · Registro de Conteúdo
 
-Histórico das mudanças focadas no **texto** do livro. Mudanças de UX, build, deploy e infraestrutura ficam fora — para essas, ver `git log`.
+Histórico das mudanças focadas no **texto** do livro: capítulos, glossário, fontes citadas. Decisões editoriais, convenções e infra ficam em [`PROJECT-CHANGELOG.md`](PROJECT-CHANGELOG.md).
 
 > **Idiomas / Languages:** entradas marcadas `[PT]` aplicam-se à versão portuguesa; `[EN]` à versão inglesa; `[PT/EN]` quando ambas. Atualmente a obra é escrita em PT-BR; a versão EN é tradução pendente.
 
