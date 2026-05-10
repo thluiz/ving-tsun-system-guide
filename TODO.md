@@ -20,6 +20,7 @@ Atualizado: 2026-05-10.
 | 07 - Família Kung Fu | Planejado | 0 | 0 | 22 |
 | 08 - VT Guia Sistêmico | Planejado | 0 | 0 | 24 |
 | 09 - Conclusão | Planejado | 0 | 0 | — |
+| Glossário | Em construção | 744 | 3,0 | — |
 
 ---
 
