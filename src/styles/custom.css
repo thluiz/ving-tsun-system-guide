@@ -13,8 +13,11 @@
 /* ── Dark mode (default) ── */
 :root {
 	/* Tipografia — Crimson Pro no corpo */
-	--sl-font: 'Crimson Pro', Georgia, serif;
+	--sl-font: 'Crimson Pro', 'Noto Serif', Georgia, serif;
 	--sl-text-body: 1.375rem;           /* 22px */
+	/* Normaliza x-height de fontes-fallback (Noto Serif) à do Crimson Pro
+	   para que glifos de pinyin (ǎ ǐ ǒ ǔ ǚ) não fiquem maiores que o entorno. */
+	font-size-adjust: 0.448;
 	--sl-content-width: 55rem;          /* Área de texto mais larga */
 	--sl-sidebar-width: 18rem;          /* Sidebar com espaço para títulos */
 	--sl-sidebar-pad-x: 2.5rem;         /* Descola sidebar da borda esquerda */
