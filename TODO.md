@@ -21,6 +21,7 @@ Atualizado: 2026-05-10.
 | 08 - VT Guia Sistêmico | Planejado | 0 | 0 | 24 |
 | 09 - Conclusão | Planejado | 0 | 0 | — |
 | Glossário | Em construção | 744 | 3,0 | — |
+| **Total** | — | **4750** | **19,0** | **~192** |
 
 ---
 
