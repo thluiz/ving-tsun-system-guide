@@ -8,7 +8,9 @@ Livro/site bilíngue (PT-BR/EN) Astro+Starlight. Tese: o treinamento de Ving Tsu
 
 ## Voz
 
-Qualquer redação que vá sair em nome do autor — corpo de capítulos, posts, glosas, recados — invocar a skill `ghost-writer` antes de redigir. A skill carrega o filtro anti-IA, vocabulário banido e os 26 testes de voz.
+Qualquer redação que vá sair em nome do autor — corpo de capítulos, posts, glosas, recados, parágrafos avulsos, substituições de TODO — invocar a skill `ghost-writer` via `Skill("ghost-writer")` **antes** de redigir. Sem exceção de tamanho: um parágrafo de duas linhas exige o mesmo invoke que um capítulo inteiro.
+
+**Declarar verbalmente que "passou pelo ghost-writer" sem ter invocado a skill via tool não conta.** O checklist estrutural de 33 itens só é aplicado quando o SKILL.md está carregado no contexto pela invocação da tool.
 
 ## Carregar sob demanda
 
