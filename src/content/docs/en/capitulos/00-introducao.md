@@ -1,5 +1,5 @@
 ---
-title: "Preface"
+title: "Introduction"
 description: "Introduction to the book — the central thesis, the author's journey and an invitation to the reader."
 ---
 

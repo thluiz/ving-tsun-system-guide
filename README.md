@@ -50,9 +50,11 @@ See [`CONTENT-CHANGELOG.md`](CONTENT-CHANGELOG.md) for the content history. Edit
 ```
 src/content/docs/
 ├── pt-br/capitulos/      # capítulos em português (versão ativa)
-│   ├── 00-prefacio.md
-│   ├── 01-kung-fu.md
-│   ├── ...
+│   ├── 00-introducao.mdx
+│   ├── 01-kung-fu.mdx
+│   ├── ...            # 02 Sistema · 03 Sistema Ving Tsun · 04 Vida-Kung Fu
+│   │                  # 05 Família Kung Fu · 06 Genealogia · 07 VT como Guia Sistêmico
+│   ├── 08-conclusao.mdx
 │   └── Glossário.md      # termos chineses + pessoas
 └── en/capitulos/         # English chapters (translation pending)
 

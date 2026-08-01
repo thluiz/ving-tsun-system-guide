@@ -4,24 +4,41 @@
 
 Livro/site "Ving Tsun: A System Guide". Tese: o treinamento de Ving Tsun desenvolve naturalmente pensamento sistêmico. Site Astro/Starlight bilíngue (PT-BR/EN) em `vingtsun.thluiz.com`, deploy S3+CloudFront.
 
-## Estado dos capítulos (snapshot 2026-05-10)
+## Estrutura (remontada em 2026-08-01)
 
-| Cap | Título | Palavras | Estado | Observações |
-|-----|--------|---------:|--------|-------------|
-| 00 | Prefácio | 891 | ~90% | Falta: fechar fontes/referências (autores listados sem obras+anos), direções de leitura concretas |
-| 01 | Kung Fu | 2 102 | ~65% | Abertura fechada com 4 fontes acadêmicas. Falta: revisão refs nas seções restantes, Yun Nui (provavelmente 玄女), citação Moy Yat sobre artes Mou |
-| 02 | Sistema Ving Tsun | 1 674 | ~40% | Framework Leibniz/Descartes/Bertalanffy. Muito esqueleto TODO. Falta: 6 domínios, etimologia, genealogia, denominação |
-| 03 | Arte da Lista | 132 | Esqueleto | — |
-| 04 | Pensamento Sistêmico | 139 | Esqueleto | — |
-| 05 | VT como Educador Sistêmico | 152 | Esqueleto | — |
-| 06 | Vida Kung Fu / Sam Faat | 167 | Esqueleto | — |
-| 07 | Família Kung Fu | 161 | Esqueleto | — |
-| 08 | VT Guia Sistêmico | 159 | Esqueleto | — |
-| 09 | Conclusão | 97 | Esqueleto | — |
-| — | Glossário | 1 441 | Em construção | Termos VT, pessoas (com ideogramas), bibliografia |
-| **Total** |  | **7 115** | | ~28 páginas (a 250 palavras/página) |
+O livro converge para a arquitetura de nove capítulos que o Si Fu definiu no IV Encontro. **A espinha é invariante** — os capítulos 1 a 6 se repetem na edição que for escrita daqui a sete ou doze anos, e a diferença entre as duas leituras é o que se mede. **O capítulo 7 é o slot renovável**, com o título do autor.
 
-> Verificar contra os arquivos atuais antes de tomar decisões — este snapshot pode estar defasado.
+| Cap | Título | Tipo | Estado |
+|-----|--------|------|--------|
+| 00 | Introdução | — | ~90% |
+| 01 | Kung Fu | objetivo | ~65% |
+| 02 | Sistema | objetivo | Esqueleto + prosa herdada |
+| 03 | O Sistema Ving Tsun | objetivo | ~40% |
+| 04 | Vida-Kung Fu — Sam Faat | subjetivo | Esqueleto |
+| 05 | Família Kung Fu | subjetivo | Esqueleto |
+| 06 | Genealogia | subjetivo | Esqueleto |
+| 07 | Ving Tsun como Guia Sistêmico | livre | Esqueleto + prosa herdada |
+| 08 | Conclusão | — | Esqueleto |
+| — | Glossário | apêndice | Em construção |
+
+### Regra de escrita que decorre da comparabilidade
+
+**Fenômeno nos capítulos 2 e 3, nome no capítulo 7.** Os capítulos objetivos descrevem no vocabulário da própria casa: a ordem altera o produto, o Biu Ji muda como se vê o Siu Nim Tau, tirar um dos seis elementos muda a identidade do sistema. O capítulo 7 chega depois e nomeia o que já foi mostrado. Se o arcabouço ocidental vier antes, a tese vira tautologia — você entrega a moldura e depois mostra que a moldura serve.
+
+Corolário: Leibniz, Descartes, Bertalanffy, Deleuze/Guattari, Checkland, Meadows e WSR ficam no capítulo 7. Nada disso pode fazer carga estrutural na espinha, senão a comparação de doze anos mede a troca de arcabouço em vez do amadurecimento do autor.
+
+O capítulo 7 se escreve como posição datada, com atribuição e fronteiras nomeadas, e fecha dizendo o que não cobriu.
+
+### O que mudou nesta remontagem
+
+- Antigo 02 se partiu em 02 (Sistema), 03 (Sistema Ving Tsun), 06 (Genealogia) e 07 (arcabouço ocidental)
+- Antigo 03 (Arte da Lista) foi absorvido pelo 02 — é leitura chinesa de sistema, não teoria de sistemas
+- Antigos 04, 05 e 08 colapsaram no 07
+- Antigo 07 se partiu em 05 (Família) e 06 (Genealogia)
+- Prefácio virou Introdução
+- Arquivos EN passaram a usar os mesmos slugs do pt-br. O Starlight casa tradução por caminho de arquivo, e antes disso cada capítulo gerava rota duplicada em `/en/` (fallback em português + esqueleto inglês órfão)
+
+> Costuras pendentes estão marcadas com Asides "Costura pendente" dentro dos capítulos 02, 03, 06 e 07. Prosa do autor foi movida intacta, sem reescrita.
 
 ## Fontes principais
 
