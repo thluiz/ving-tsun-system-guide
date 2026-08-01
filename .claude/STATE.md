@@ -6,7 +6,7 @@
 
 ## Próxima sessão — prioridades
 
-1. **Fontes e Referências do prefácio (`00-prefacio.mdx`)**: a seção tem lista aberta com Jullien, Peimin Ni (escrita PemMiNi, normalizar para "Peimin Ni"), Marcel Granet, Anne Cheng, Bertalanffy, Xing Pan, Ricardo Valerdi, Rui Kang, Donella Meadows. Cada um pede footnote com obra principal + ano. Possível também: nota Scholion biográfica para os sinólogos centrais (Granet, Cheng).
+1. **Fontes e Referências do prefácio (`00-introducao.mdx`)**: a seção tem lista aberta com Jullien, Peimin Ni (escrita PemMiNi, normalizar para "Peimin Ni"), Marcel Granet, Anne Cheng, Bertalanffy, Xing Pan, Ricardo Valerdi, Rui Kang, Donella Meadows. Cada um pede footnote com obra principal + ano. Possível também: nota Scholion biográfica para os sinólogos centrais (Granet, Cheng).
 2. **Cap 01 — seção `## O que quer dizer Kung Fu (功夫)?`**: revisão de referências. Etimologia (Duan Yucai) precisa fonte verificada (provavelmente *Shuowen Jiezi Zhu*). A análise dos componentes 工/力/夫/大 pode pedir attribution acadêmica.
 
 ## Encontros do Mestrado — integração em curso (2026-07-31)
@@ -24,8 +24,21 @@ Retomada da incorporação dos encontros ainda não cobertos, um de cada vez, em
 - Cap 01 item 25: descrevi como 工 o ideograma de "uma linha em cima, uma embaixo e um traço que conecta". Confirmar se não é 王.
 - Cap 04 item 1: a fala sobre verdade absoluta não dá para atribuir com segurança pelo transcript. Ficou sem nome.
 - Antes de integrar qualquer encontro novo, **procurar primeiro nota no Scholion e post no Silvae**. Nesta rodada eu parti do transcript bruto e depois descobri que 24/04 já tinha nota e 03/07 já tinha post redigido.
-- Decidir se a estrutura deste livro converge para a arquitetura de nove capítulos do Si Fu.
 - Confirmar com Si Fu como creditar o índice de ideogramas do Si Suk Mordente.
+
+## Remontagem estrutural (2026-08-01) — feita
+
+O livro convergiu para a arquitetura de nove capítulos do Si Fu. Motivo: a comparabilidade não é entre autores, é entre este livro e o que o autor escrever daqui a 7 ou 12 anos. A espinha (caps 1–6) é o invariante que se repete e permite medir a diferença; o cap 7 é o slot renovável.
+
+Detalhes da estrutura e a regra "fenômeno no 2 e 3, nome no 7" estão em `.claude/context/estado-livro.md`.
+
+**Costuras pendentes** (marcadas com Aside "Costura pendente" nos próprios capítulos):
+
+- Cap 02: o parágrafo "No outro lado do mundo, a China…" respondia ao bloco Leibniz/Descartes que foi para o cap 07. Precisa de nova entrada. E a Arte da Lista está só como estrutura planejada, sem prosa.
+- Cap 03: decidir se os parágrafos sobre Leung Bok Toa, Yim Ving Tsun e Ng Mui migram para o cap 06. É o corte que o Si Fu fez no Guilherme. O bullet Deleuze/Guattari na nota "Genealogia da frase" também é material do cap 07.
+- Cap 07: os três parágrafos herdados (Leibniz, Descartes, Bertalanffy) precisam de nova entrada.
+
+Prosa do autor foi movida intacta em todos os casos. Nada foi reescrito.
 
 ## Capítulo último editado
 
