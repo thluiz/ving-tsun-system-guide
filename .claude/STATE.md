@@ -2,7 +2,11 @@
 
 > Documento de retomada de sessão. Atualizar ao fim de cada sessão produtiva.
 >
-> **Última atualização:** 2026-05-10
+> **Última atualização:** 2026-08-03
+
+## Rastreio de pendências — Todoist
+
+Projeto [Ving Tsun - Guia de Sistemas](https://app.todoist.com/app/project/6hCCvMrHVw7WGVp5) (id `6hCCvMrHVw7WGVp5`), espelhado deste arquivo em 2026-08-03: "Pendências gerais do livro" no topo + uma tarefa por capítulo (00–08 e Glossário), com cada pendência como subtarefa. Ao resolver algo aqui, marcar lá também (MCP Todoist disponível na sessão).
 
 ## Próxima sessão — prioridades
 
@@ -61,6 +65,13 @@ Bloco de abertura do cap 01 (antes do header `## O que quer dizer Kung Fu (功�
   - `## Feminilização da Guerra` — Albert Galvany e Sun Tzu carecem de fonte explícita; nota Yun Nui em aberto
 - Cap 02 "Sistema Ving Tsun" — atualmente ~40%, precisa avançar
 - Caps 03–09 — esqueletos
+
+## Pendências sinalizadas (sessão 2026-08-01 — Kuen Kuits e encontros)
+
+- **Perguntar a Si Fu / Si Suk Leonardo Mordente**: o projeto "Ving Tsun Kuen Kuet Suen Hak: A New Translation" (transcrição integral + transliteração + tradução dos 51 selos, anunciado em vingtsunkuenkuit.com, 2015/2016) foi concluído? É a fonte que destrava os 9 Kuen Kuits sem ideograma atestado. Controle: `E:\dicionario-kungfu\_drafts\kuen-kuit-temas-teoricos-2018.md` (23 verbetes novos commitados em 19a1594).
+- **Encontro de 20/05/2026** (presencial, tema Sistema Ving Tsun): sem gravação/transcrição em `fontes/`. Se houve registro, buscar.
+- **Encontro de 03/07/2026**: ainda não integrado aos capítulos — traz a enumeração limpa dos 6 domínios e a correção "independentes → interdependentes" do Si Fu.
+- **Análise de consistência dos encontros** (CI I–IX × Mestrado): SNT/CK sem tratamento conceitual no registro do Mestrado; tensões abertas (teleologia do Do × "sistema é mudo"; fronteira do sistema em disputa no 03/07; Chi Sau "alma do sistema" sem encontro próprio; linha central prometida como pauta e não entregue).
 
 ## Pendências sinalizadas
 
