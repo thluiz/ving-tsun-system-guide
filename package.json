@@ -14,7 +14,7 @@
     "@fontsource/crimson-pro": "^5.2.8",
     "@fontsource/dm-sans": "^5.2.8",
     "@fontsource/noto-serif": "^5.2.9",
-    "astro": "^6.0.1",
+    "astro": "^6.4.8",
     "sharp": "^0.34.2"
   }
 }
