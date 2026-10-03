@@ -22,11 +22,11 @@ Os arquivos abaixo são contexto persistente do projeto. Carregar quando o gatil
 - Estado dos capítulos, fontes, encontros → `.claude/context/estado-livro.md`
 - Escrevendo nota Scholion sobre fala de mestre no encontro → `.claude/context/notas-encontro-mestrado.md`
 - Pesquisa de referências, fontes, citações → `.claude/context/pesquisa-referencias.md`
-- Paleta de cores, design do site → `.claude/context/paleta-mjlo.md`
+- Paleta de cores, design do site → `.claude/context/paleta-mcys.md`
 - Transcrição de encontros do Programa de Mestrado → `.claude/context/transcricao-encontros.md`
 
 ## Convenções de comunicação
 
 - PT-BR sempre. Nunca PT-EU.
-- "Família Moy Jo Lei Ou" (grupo imediato) ≠ "Linhagem Moy Yat de Ving Tsun Kung Fu" (tradição). Nunca "clã Moy Yat".
+- "Família Moy Chi Yau Si" (grupo imediato) ≠ "Clã Moy Jo Lei Ou" ≠ "Linhagem Moy Yat de Ving Tsun Kung Fu" (tradição). Nunca "clã Moy Yat" ou "família Moy Jo Lei Ou".
 - Termos VT com espaço: Si Fu, To Dai, Si Hing, Si Gung, Si Taai Gung, Ving Tsun (não Wing Chun).

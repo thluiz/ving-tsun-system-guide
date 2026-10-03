@@ -1,6 +1,6 @@
-# Paleta de cores Moy Jo Lei Ou
+# Paleta de cores Moy Chi Yau Si
 
-Paleta oficial da família MJLO com 5 cores e 4 valores (Pureza, Sabedoria, Excelência, Amizade).
+Paleta oficial da família Moy Chi Yau Si (clã Moy Jo Lei Ou), com 5 cores e 4 valores (Pureza, Sabedoria, Excelência, Amizade).
 
 ## Cores
 
